@@ -1,6 +1,6 @@
-* PCBの入手方法
+# PCBの入手方法
 
-** FusionPCBへ発注する場合
+## FusionPCBへ発注する場合
 https://www.fusionpcb.jp/prototype-pcb-sale.html
 
 ガーバーファイルは[su120-gerber.zip](../../su120-gerber.zip)を使用します。
@@ -14,7 +14,7 @@ https://www.fusionpcb.jp/prototype-pcb-sale.html
 ![FusionPCB画面](fusionpcb.png)
 
 
-** Elecrowへ発注する場合
+## Elecrowへ発注する場合
 https://www.elecrow.com/pcb-manufacturing.html
 
 ガーバーファイルは[su120-gerber-elecrow.zip](../../su120-gerber-elecrow.zip)を使用します。

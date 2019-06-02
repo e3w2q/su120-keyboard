@@ -15,7 +15,7 @@ Assemblable keyboard board with up to 120 key.
 - [ハードウェアデータ](/pcb/)
 - [基板の注文方法](/doc/common/pcb_order_guide_jp.md)
 
-##One Board Keypad
+## One Board Keypad
 ![image](/doc/sample/one-board-keypad/image.jpg)
 
 <!---
