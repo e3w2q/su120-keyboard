@@ -3,7 +3,7 @@
 ** FusionPCBへ発注する場合
 https://www.fusionpcb.jp/prototype-pcb-sale.html
 
-ガーバーファイルはsu120-gerber.zipを使用します。
+ガーバーファイルは[su120-gerber.zip](../../su120-gerber.zip)を使用します。
 
 寸法は100×100mmです。
 
@@ -17,7 +17,7 @@ https://www.fusionpcb.jp/prototype-pcb-sale.html
 ** Elecrowへ発注する場合
 https://www.elecrow.com/pcb-manufacturing.html
 
-ガーバーファイルはsu120-gerber-elecrow.zipを使用します。
+ガーバーファイルは[su120-gerber-elecrow.zip](../../su120-gerber-elecrow.zip)を使用します。
 
 寸法は100×100mmです。
 
