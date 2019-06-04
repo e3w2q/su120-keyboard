@@ -22,10 +22,12 @@
 ## 電子工作用ハンダ
 
 有鉛タイプが作業しやすいです。
+
 使う部品に小さいものはないので1mmのものでも十分作業できますが、0.8mmのものがはんだが溶けやすいようです。
+
 100円ショップにもあります。
+
 <img src="solder.jpg" alt="solder" width="250"/>
-![solder](solder.jpg)
 
 ## ニッパー
 
@@ -42,7 +44,7 @@
 Pro Microのもげ防止加工に使います。
 
 100円ショップにもあります。
-![2_components_epoxy_adhesive](2_components_epoxy_adhesive.jpg)
+
 <img src="2_components_epoxy_adhesive.jpg" alt="2_components_epoxy_adhesive" width="250"/>
 
 ## マスキングテープ
