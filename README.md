@@ -16,14 +16,10 @@ SU is Japanese homophones: 州(sandbank) and 鬆(porous).
 
 I made it open source so that anyone interested in keyboard could try the keyboard layout more easily.
 
-<!---
-- [Hardware data](/pcb/)
-- [Firmware]()
-- [ファームウェア]()
--->
+## Link
 
 - [Hardware data (PCB)](/pcb/)
-- [PCB Order Guide](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide.md) [PCBの入手方法](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide_jp.md)
+- [PCB Order Guide](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide.md) / [PCBの入手方法](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide_jp.md)
 
 - [Firmware](https://github.com/e3w2q/qmk_firmware/tree/su120/keyboards/handwired/su120)
 
