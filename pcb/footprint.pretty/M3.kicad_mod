@@ -1,4 +1,4 @@
-(module M2 (layer F.Cu) (tedit 5D0B609C)
+(module M3 (layer F.Cu) (tedit 5D08D1E7)
   (descr "Resitance 3 pas")
   (tags R)
   (autoplace_cost180 10)
@@ -8,7 +8,8 @@
   (fp_text value "" (at 0 -1.4605) (layer F.Fab) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (pad "" thru_hole circle (at 0 0) (size 2.6 2.6) (drill 2.15) (layers *.Cu *.Mask))
+  (fp_circle (center 0 0) (end 2.75 0) (layer F.Fab) (width 0.15))
+  (pad "" thru_hole circle (at 0 0) (size 3.6 3.6) (drill 3.2) (layers *.Cu *.Mask))
   (model discret/resistor.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3 0.3 0.3))

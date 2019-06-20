@@ -112,7 +112,7 @@ U 1 1 5C43B1D6
 P 6200 1800
 F 0 "SW1" H 6200 2085 50  0000 C CNN
 F 1 "SW_Push" H 6200 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 6200 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 6200 2000 50  0001 C CNN
 F 3 "" H 6200 2000 50  0001 C CNN
 	1    6200 1800
 	1    0    0    -1  
@@ -123,7 +123,7 @@ U 1 1 5C43B248
 P 7250 1800
 F 0 "SW2" H 7250 2085 50  0000 C CNN
 F 1 "SW_Push" H 7250 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 7250 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 2000 50  0001 C CNN
 F 3 "" H 7250 2000 50  0001 C CNN
 	1    7250 1800
 	1    0    0    -1  
@@ -134,7 +134,7 @@ U 1 1 5C43B29E
 P 8350 1800
 F 0 "SW3" H 8350 2085 50  0000 C CNN
 F 1 "SW_Push" H 8350 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 8350 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 8350 2000 50  0001 C CNN
 F 3 "" H 8350 2000 50  0001 C CNN
 	1    8350 1800
 	1    0    0    -1  
@@ -145,7 +145,7 @@ U 1 1 5C43B2EA
 P 9400 1800
 F 0 "SW4" H 9400 2085 50  0000 C CNN
 F 1 "SW_Push" H 9400 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 9400 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 2000 50  0001 C CNN
 F 3 "" H 9400 2000 50  0001 C CNN
 	1    9400 1800
 	1    0    0    -1  
@@ -156,7 +156,7 @@ U 1 1 5C43B33A
 P 6200 2400
 F 0 "SW6" H 6200 2685 50  0000 C CNN
 F 1 "SW_Push" H 6200 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 6200 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 6200 2600 50  0001 C CNN
 F 3 "" H 6200 2600 50  0001 C CNN
 	1    6200 2400
 	1    0    0    -1  
@@ -167,7 +167,7 @@ U 1 1 5C43B3A2
 P 7250 2400
 F 0 "SW7" H 7250 2685 50  0000 C CNN
 F 1 "SW_Push" H 7250 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 7250 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 2600 50  0001 C CNN
 F 3 "" H 7250 2600 50  0001 C CNN
 	1    7250 2400
 	1    0    0    -1  
@@ -178,7 +178,7 @@ U 1 1 5C43B3F4
 P 8350 2400
 F 0 "SW8" H 8350 2685 50  0000 C CNN
 F 1 "SW_Push" H 8350 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 8350 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 8350 2600 50  0001 C CNN
 F 3 "" H 8350 2600 50  0001 C CNN
 	1    8350 2400
 	1    0    0    -1  
@@ -189,7 +189,7 @@ U 1 1 5C43B44C
 P 9400 2400
 F 0 "SW9" H 9400 2685 50  0000 C CNN
 F 1 "SW_Push" H 9400 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 9400 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 2600 50  0001 C CNN
 F 3 "" H 9400 2600 50  0001 C CNN
 	1    9400 2400
 	1    0    0    -1  
@@ -222,7 +222,7 @@ U 1 1 5C485058
 P 10450 1800
 F 0 "SW5" H 10450 2085 50  0000 C CNN
 F 1 "SW_Push" H 10450 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 10450 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 2000 50  0001 C CNN
 F 3 "" H 10450 2000 50  0001 C CNN
 	1    10450 1800
 	1    0    0    -1  
@@ -233,14 +233,14 @@ U 1 1 5C485061
 P 10450 2400
 F 0 "SW10" H 10450 2685 50  0000 C CNN
 F 1 "SW_Push" H 10450 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 10450 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 2600 50  0001 C CNN
 F 3 "" H 10450 2600 50  0001 C CNN
 	1    10450 2400
 	1    0    0    -1  
 $EndComp
-Text GLabel 5600 2000 0    39   Input ~ 0
+Text GLabel 5600 2100 0    39   Input ~ 0
 Y2
-Text GLabel 5600 2600 0    39   Input ~ 0
+Text GLabel 5600 2700 0    39   Input ~ 0
 Y3
 Wire Wire Line
 	9200 1800 9200 1950
@@ -256,10 +256,6 @@ Wire Wire Line
 Connection ~ 8150 1800
 Wire Wire Line
 	8150 1800 8150 1950
-Wire Wire Line
-	5700 2000 5700 2100
-Wire Wire Line
-	5700 2600 5700 2700
 $Comp
 L Mechanical:MountingHole_Pad H23
 U 1 1 5C480499
@@ -523,12 +519,6 @@ Wire Wire Line
 Wire Wire Line
 	7050 2400 7050 2550
 Connection ~ 7050 2400
-Wire Wire Line
-	5600 2600 5700 2600
-Wire Wire Line
-	5600 2000 5700 2000
-Wire Wire Line
-	5700 2100 6200 2100
 Connection ~ 6400 2100
 $Comp
 L Mechanical:MountingHole_Pad H11
@@ -586,8 +576,6 @@ $EndComp
 Connection ~ 6600 2100
 Wire Wire Line
 	6600 2100 7250 2100
-Wire Wire Line
-	5700 2700 6200 2700
 $Comp
 L Mechanical:MountingHole_Pad H34
 U 1 1 5C4A7D52
@@ -842,12 +830,12 @@ Connection ~ 10250 1950
 $Comp
 L Device:D D16
 U 1 1 5C71DC1E
-P 6400 3750
-F 0 "D16" H 6400 3850 50  0000 C CNN
-F 1 "D" H 6400 3650 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 6400 3750 50  0001 C CNN
-F 3 "" H 6400 3750 50  0001 C CNN
-	1    6400 3750
+P 7450 3750
+F 0 "D16" H 7450 3850 50  0000 C CNN
+F 1 "D" H 7450 3650 50  0000 C CNN
+F 2 "#footprint:diode_TH_SMD" H 7450 3750 50  0001 C CNN
+F 3 "" H 7450 3750 50  0001 C CNN
+	1    7450 3750
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -864,12 +852,12 @@ $EndComp
 $Comp
 L Switch:SW_Push SW16
 U 1 1 5C71DC38
-P 6200 3600
-F 0 "SW16" H 6200 3885 50  0000 C CNN
-F 1 "SW_Push" H 6200 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 6200 3800 50  0001 C CNN
-F 3 "" H 6200 3800 50  0001 C CNN
-	1    6200 3600
+P 7250 3600
+F 0 "SW16" H 7250 3885 50  0000 C CNN
+F 1 "SW_Push" H 7250 3794 50  0000 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 3800 50  0001 C CNN
+F 3 "" H 7250 3800 50  0001 C CNN
+	1    7250 3600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -878,78 +866,73 @@ U 1 1 5C71DC44
 P 9400 3600
 F 0 "SW17" H 9400 3885 50  0000 C CNN
 F 1 "SW_Push" H 9400 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 9400 3800 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 3800 50  0001 C CNN
 F 3 "" H 9400 3800 50  0001 C CNN
 	1    9400 3600
 	1    0    0    -1  
 $EndComp
-Text GLabel 5600 3800 0    39   Input ~ 0
+Text GLabel 5600 3900 0    39   Input ~ 0
 Y5
-Wire Wire Line
-	5700 3800 5700 3900
 Wire Wire Line
 	6000 2550 6000 2850
 $Comp
 L Mechanical:MountingHole_Pad H41
 U 1 1 5C71DC7E
-P 5900 3450
-F 0 "H41" V 6137 3455 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6046 3455 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 5900 3450 50  0001 C CNN
-F 3 "~" H 5900 3450 50  0001 C CNN
-	1    5900 3450
+P 6950 3450
+F 0 "H41" V 7187 3455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 7096 3455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 6950 3450 50  0001 C CNN
+F 3 "~" H 6950 3450 50  0001 C CNN
+	1    6950 3450
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	6000 3450 6000 3600
+	7050 3450 7050 3600
 $Comp
 L Mechanical:MountingHole_Pad H43
 U 1 1 5C71DC86
-P 5900 3750
-F 0 "H43" V 6137 3755 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6046 3755 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 5900 3750 50  0001 C CNN
-F 3 "~" H 5900 3750 50  0001 C CNN
-	1    5900 3750
+P 6950 3750
+F 0 "H43" V 7187 3755 50  0000 C CNN
+F 1 "MountingHole_Pad" V 7096 3755 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 6950 3750 50  0001 C CNN
+F 3 "~" H 6950 3750 50  0001 C CNN
+	1    6950 3750
 	0    -1   -1   0   
 $EndComp
 Connection ~ 9600 3900
 Wire Wire Line
 	9600 3900 9800 3900
-Connection ~ 6400 3900
+Connection ~ 7450 3900
 Wire Wire Line
-	6400 3900 6600 3900
+	7450 3900 7650 3900
 Wire Wire Line
-	6000 3600 6000 3750
-Connection ~ 6000 3600
-Wire Wire Line
-	5600 3800 5700 3800
+	7050 3600 7050 3750
+Connection ~ 7050 3600
 $Comp
 L Mechanical:MountingHole_Pad H46
 U 1 1 5C71DCB6
-P 6600 3800
-F 0 "H46" H 6700 3851 50  0000 L CNN
-F 1 "MountingHole_Pad" H 6700 3760 50  0000 L CNN
-F 2 "#footprint:1pin_conn" H 6600 3800 50  0001 C CNN
-F 3 "~" H 6600 3800 50  0001 C CNN
-	1    6600 3800
+P 7650 3800
+F 0 "H46" H 7750 3851 50  0000 L CNN
+F 1 "MountingHole_Pad" H 7750 3760 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 7650 3800 50  0001 C CNN
+F 3 "~" H 7650 3800 50  0001 C CNN
+	1    7650 3800
 	1    0    0    -1  
 $EndComp
-Connection ~ 6600 3900
 $Comp
 L Mechanical:MountingHole_Pad H45
 U 1 1 5C71DCBE
-P 6200 3800
-F 0 "H45" H 6300 3851 50  0000 L CNN
-F 1 "MountingHole_Pad" H 6300 3760 50  0000 L CNN
-F 2 "#footprint:1pin_conn" H 6200 3800 50  0001 C CNN
-F 3 "~" H 6200 3800 50  0001 C CNN
-	1    6200 3800
+P 7250 3800
+F 0 "H45" H 7350 3851 50  0000 L CNN
+F 1 "MountingHole_Pad" H 7350 3760 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 7250 3800 50  0001 C CNN
+F 3 "~" H 7250 3800 50  0001 C CNN
+	1    7250 3800
 	1    0    0    -1  
 $EndComp
-Connection ~ 6200 3900
+Connection ~ 7250 3900
 Wire Wire Line
-	6200 3900 6400 3900
+	7250 3900 7450 3900
 $Comp
 L Mechanical:MountingHole_Pad H47
 U 1 1 5C71DCC6
@@ -1004,844 +987,7 @@ Wire Wire Line
 	9200 3600 9200 3750
 Connection ~ 9200 3600
 Connection ~ 9200 2550
-Wire Wire Line
-	5700 3900 6200 3900
 Connection ~ 6000 2550
-Wire Wire Line
-	6600 3900 9400 3900
-Connection ~ 9400 3900
-$Comp
-L Mechanical:MountingHole_Pad H49
-U 1 1 5C8EA45F
-P 850 5050
-F 0 "H49" V 1087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 850 5050 50  0001 C CNN
-F 3 "~" H 850 5050 50  0001 C CNN
-	1    850  5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 850  4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H51
-U 1 1 5C8EA99F
-P 1250 5050
-F 0 "H51" V 1487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1250 5050 50  0001 C CNN
-F 3 "~" H 1250 5050 50  0001 C CNN
-	1    1250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 1250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H53
-U 1 1 5C8ECDA6
-P 1650 5050
-F 0 "H53" V 1887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1650 5050 50  0001 C CNN
-F 3 "~" H 1650 5050 50  0001 C CNN
-	1    1650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 1650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H55
-U 1 1 5C8ECDAD
-P 2050 5050
-F 0 "H55" V 2287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2050 5050 50  0001 C CNN
-F 3 "~" H 2050 5050 50  0001 C CNN
-	1    2050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 2050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H57
-U 1 1 5C8F17F0
-P 2450 5050
-F 0 "H57" V 2687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2450 5050 50  0001 C CNN
-F 3 "~" H 2450 5050 50  0001 C CNN
-	1    2450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 2450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H59
-U 1 1 5C8F17F7
-P 2850 5050
-F 0 "H59" V 3087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2850 5050 50  0001 C CNN
-F 3 "~" H 2850 5050 50  0001 C CNN
-	1    2850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 2850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H61
-U 1 1 5C8F17FE
-P 3250 5050
-F 0 "H61" V 3487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3250 5050 50  0001 C CNN
-F 3 "~" H 3250 5050 50  0001 C CNN
-	1    3250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 3250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H63
-U 1 1 5C8F1805
-P 3650 5050
-F 0 "H63" V 3887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3650 5050 50  0001 C CNN
-F 3 "~" H 3650 5050 50  0001 C CNN
-	1    3650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 3650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H65
-U 1 1 5C8F3FBE
-P 4050 5050
-F 0 "H65" V 4287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4050 5050 50  0001 C CNN
-F 3 "~" H 4050 5050 50  0001 C CNN
-	1    4050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 4050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H67
-U 1 1 5C8F3FC5
-P 4450 5050
-F 0 "H67" V 4687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4450 5050 50  0001 C CNN
-F 3 "~" H 4450 5050 50  0001 C CNN
-	1    4450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 4450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H69
-U 1 1 5C8F3FCC
-P 4850 5050
-F 0 "H69" V 5087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4850 5050 50  0001 C CNN
-F 3 "~" H 4850 5050 50  0001 C CNN
-	1    4850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 4850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H71
-U 1 1 5C8F3FD3
-P 5250 5050
-F 0 "H71" V 5487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5250 5050 50  0001 C CNN
-F 3 "~" H 5250 5050 50  0001 C CNN
-	1    5250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 5250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H73
-U 1 1 5C8F3FDA
-P 5650 5050
-F 0 "H73" V 5887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5650 5050 50  0001 C CNN
-F 3 "~" H 5650 5050 50  0001 C CNN
-	1    5650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 5650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H75
-U 1 1 5C8F3FE1
-P 6050 5050
-F 0 "H75" V 6287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 6050 5050 50  0001 C CNN
-F 3 "~" H 6050 5050 50  0001 C CNN
-	1    6050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 6050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H77
-U 1 1 5C8F3FE8
-P 6450 5050
-F 0 "H77" V 6687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 6450 5050 50  0001 C CNN
-F 3 "~" H 6450 5050 50  0001 C CNN
-	1    6450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 6450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H79
-U 1 1 5C8F3FEF
-P 6850 5050
-F 0 "H79" V 7087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 6850 5050 50  0001 C CNN
-F 3 "~" H 6850 5050 50  0001 C CNN
-	1    6850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 6850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H50
-U 1 1 5C8F905A
-P 1050 5050
-F 0 "H50" V 1287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1050 5050 50  0001 C CNN
-F 3 "~" H 1050 5050 50  0001 C CNN
-	1    1050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 1050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H52
-U 1 1 5C8F9061
-P 1450 5050
-F 0 "H52" V 1687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1450 5050 50  0001 C CNN
-F 3 "~" H 1450 5050 50  0001 C CNN
-	1    1450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 1450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H54
-U 1 1 5C8F9068
-P 1850 5050
-F 0 "H54" V 2087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1850 5050 50  0001 C CNN
-F 3 "~" H 1850 5050 50  0001 C CNN
-	1    1850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 1850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H56
-U 1 1 5C8F906F
-P 2250 5050
-F 0 "H56" V 2487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2250 5050 50  0001 C CNN
-F 3 "~" H 2250 5050 50  0001 C CNN
-	1    2250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 2250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H58
-U 1 1 5C8F9076
-P 2650 5050
-F 0 "H58" V 2887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2650 5050 50  0001 C CNN
-F 3 "~" H 2650 5050 50  0001 C CNN
-	1    2650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 2650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H60
-U 1 1 5C8F907D
-P 3050 5050
-F 0 "H60" V 3287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3050 5050 50  0001 C CNN
-F 3 "~" H 3050 5050 50  0001 C CNN
-	1    3050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 3050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H62
-U 1 1 5C8F9084
-P 3450 5050
-F 0 "H62" V 3687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3450 5050 50  0001 C CNN
-F 3 "~" H 3450 5050 50  0001 C CNN
-	1    3450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 3450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H64
-U 1 1 5C8F908B
-P 3850 5050
-F 0 "H64" V 4087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3850 5050 50  0001 C CNN
-F 3 "~" H 3850 5050 50  0001 C CNN
-	1    3850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 3850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H66
-U 1 1 5C8F9092
-P 4250 5050
-F 0 "H66" V 4487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4250 5050 50  0001 C CNN
-F 3 "~" H 4250 5050 50  0001 C CNN
-	1    4250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 4250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H68
-U 1 1 5C8F9099
-P 4650 5050
-F 0 "H68" V 4887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4650 5050 50  0001 C CNN
-F 3 "~" H 4650 5050 50  0001 C CNN
-	1    4650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 4650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H70
-U 1 1 5C8F90A0
-P 5050 5050
-F 0 "H70" V 5287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5050 5050 50  0001 C CNN
-F 3 "~" H 5050 5050 50  0001 C CNN
-	1    5050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 5050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H72
-U 1 1 5C8F90A7
-P 5450 5050
-F 0 "H72" V 5687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5450 5050 50  0001 C CNN
-F 3 "~" H 5450 5050 50  0001 C CNN
-	1    5450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 5450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H74
-U 1 1 5C8F90AE
-P 5850 5050
-F 0 "H74" V 6087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5850 5050 50  0001 C CNN
-F 3 "~" H 5850 5050 50  0001 C CNN
-	1    5850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 5850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H76
-U 1 1 5C8F90B5
-P 6250 5050
-F 0 "H76" V 6487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 6250 5050 50  0001 C CNN
-F 3 "~" H 6250 5050 50  0001 C CNN
-	1    6250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 6250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H78
-U 1 1 5C8F90BC
-P 6650 5050
-F 0 "H78" V 6887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 6650 5050 50  0001 C CNN
-F 3 "~" H 6650 5050 50  0001 C CNN
-	1    6650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 6650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H80
-U 1 1 5C8F90C3
-P 7050 5050
-F 0 "H80" V 7287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 7050 5050 50  0001 C CNN
-F 3 "~" H 7050 5050 50  0001 C CNN
-	1    7050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 7050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H81
-U 1 1 5C90D3E1
-P 7250 5050
-F 0 "H81" V 7487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 7250 5050 50  0001 C CNN
-F 3 "~" H 7250 5050 50  0001 C CNN
-	1    7250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 7250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H83
-U 1 1 5C90D3E8
-P 7650 5050
-F 0 "H83" V 7887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 7650 5050 50  0001 C CNN
-F 3 "~" H 7650 5050 50  0001 C CNN
-	1    7650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 7650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H85
-U 1 1 5C90D3EF
-P 8050 5050
-F 0 "H85" V 8287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 8050 5050 50  0001 C CNN
-F 3 "~" H 8050 5050 50  0001 C CNN
-	1    8050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 8050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H87
-U 1 1 5C90D3F6
-P 8450 5050
-F 0 "H87" V 8687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 8450 5050 50  0001 C CNN
-F 3 "~" H 8450 5050 50  0001 C CNN
-	1    8450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 8450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H89
-U 1 1 5C90D3FD
-P 8850 5050
-F 0 "H89" V 9087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 8850 5050 50  0001 C CNN
-F 3 "~" H 8850 5050 50  0001 C CNN
-	1    8850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 8850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H91
-U 1 1 5C90D404
-P 9250 5050
-F 0 "H91" V 9487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 9250 5050 50  0001 C CNN
-F 3 "~" H 9250 5050 50  0001 C CNN
-	1    9250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 9250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H93
-U 1 1 5C90D40B
-P 9650 5050
-F 0 "H93" V 9887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 9650 5050 50  0001 C CNN
-F 3 "~" H 9650 5050 50  0001 C CNN
-	1    9650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 9650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H95
-U 1 1 5C90D412
-P 10050 5050
-F 0 "H95" V 10287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 10050 5050 50  0001 C CNN
-F 3 "~" H 10050 5050 50  0001 C CNN
-	1    10050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 10050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H97
-U 1 1 5C90D419
-P 10450 5050
-F 0 "H97" V 10687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 10450 5050 50  0001 C CNN
-F 3 "~" H 10450 5050 50  0001 C CNN
-	1    10450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 10450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H99
-U 1 1 5C90D420
-P 10850 5050
-F 0 "H99" V 11087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 10850 5050 50  0001 C CNN
-F 3 "~" H 10850 5050 50  0001 C CNN
-	1    10850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 10850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H101
-U 1 1 5C90D427
-P 1050 5800
-F 0 "H101" V 1287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1196 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1050 5800 50  0001 C CNN
-F 3 "~" H 1050 5800 50  0001 C CNN
-	1    1050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 1050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H103
-U 1 1 5C90D42E
-P 1450 5800
-F 0 "H103" V 1687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1596 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1450 5800 50  0001 C CNN
-F 3 "~" H 1450 5800 50  0001 C CNN
-	1    1450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 1450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H105
-U 1 1 5C90D435
-P 1850 5800
-F 0 "H105" V 2087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1996 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1850 5800 50  0001 C CNN
-F 3 "~" H 1850 5800 50  0001 C CNN
-	1    1850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 1850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H82
-U 1 1 5C90D443
-P 7450 5050
-F 0 "H82" V 7687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 7450 5050 50  0001 C CNN
-F 3 "~" H 7450 5050 50  0001 C CNN
-	1    7450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 7450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H84
-U 1 1 5C90D44A
-P 7850 5050
-F 0 "H84" V 8087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 7850 5050 50  0001 C CNN
-F 3 "~" H 7850 5050 50  0001 C CNN
-	1    7850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 7850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H86
-U 1 1 5C90D451
-P 8250 5050
-F 0 "H86" V 8487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 8250 5050 50  0001 C CNN
-F 3 "~" H 8250 5050 50  0001 C CNN
-	1    8250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 8250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H88
-U 1 1 5C90D458
-P 8650 5050
-F 0 "H88" V 8887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 8650 5050 50  0001 C CNN
-F 3 "~" H 8650 5050 50  0001 C CNN
-	1    8650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 8650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H90
-U 1 1 5C90D45F
-P 9050 5050
-F 0 "H90" V 9287 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9196 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 9050 5050 50  0001 C CNN
-F 3 "~" H 9050 5050 50  0001 C CNN
-	1    9050 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 9050 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H92
-U 1 1 5C90D466
-P 9450 5050
-F 0 "H92" V 9687 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9596 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 9450 5050 50  0001 C CNN
-F 3 "~" H 9450 5050 50  0001 C CNN
-	1    9450 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 9450 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H94
-U 1 1 5C90D46D
-P 9850 5050
-F 0 "H94" V 10087 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9996 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 9850 5050 50  0001 C CNN
-F 3 "~" H 9850 5050 50  0001 C CNN
-	1    9850 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 9850 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H96
-U 1 1 5C90D474
-P 10250 5050
-F 0 "H96" V 10487 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10396 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 10250 5050 50  0001 C CNN
-F 3 "~" H 10250 5050 50  0001 C CNN
-	1    10250 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 10250 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H98
-U 1 1 5C90D47B
-P 10650 5050
-F 0 "H98" V 10887 5055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10796 5055 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 10650 5050 50  0001 C CNN
-F 3 "~" H 10650 5050 50  0001 C CNN
-	1    10650 5050
-	-1   0    0    1   
-$EndComp
-Text GLabel 10650 4950 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H100
-U 1 1 5C90D482
-P 850 5800
-F 0 "H100" V 1087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 996 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 850 5800 50  0001 C CNN
-F 3 "~" H 850 5800 50  0001 C CNN
-	1    850  5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 850  5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H102
-U 1 1 5C90D489
-P 1250 5800
-F 0 "H102" V 1487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1396 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1250 5800 50  0001 C CNN
-F 3 "~" H 1250 5800 50  0001 C CNN
-	1    1250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 1250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H104
-U 1 1 5C90D490
-P 1650 5800
-F 0 "H104" V 1887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1796 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 1650 5800 50  0001 C CNN
-F 3 "~" H 1650 5800 50  0001 C CNN
-	1    1650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 1650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H106
-U 1 1 5C90D497
-P 2050 5800
-F 0 "H106" V 2287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2196 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2050 5800 50  0001 C CNN
-F 3 "~" H 2050 5800 50  0001 C CNN
-	1    2050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 2050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H107
-U 1 1 5CD6C347
-P 2250 5800
-F 0 "H107" V 2487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2396 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2250 5800 50  0001 C CNN
-F 3 "~" H 2250 5800 50  0001 C CNN
-	1    2250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 2250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H109
-U 1 1 5CD6C34E
-P 2650 5800
-F 0 "H109" V 2887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2796 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2650 5800 50  0001 C CNN
-F 3 "~" H 2650 5800 50  0001 C CNN
-	1    2650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 2650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H111
-U 1 1 5CD6C355
-P 3050 5800
-F 0 "H111" V 3287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3196 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3050 5800 50  0001 C CNN
-F 3 "~" H 3050 5800 50  0001 C CNN
-	1    3050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 3050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H108
-U 1 1 5CD6C35C
-P 2450 5800
-F 0 "H108" V 2687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2596 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2450 5800 50  0001 C CNN
-F 3 "~" H 2450 5800 50  0001 C CNN
-	1    2450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 2450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H110
-U 1 1 5CD6C363
-P 2850 5800
-F 0 "H110" V 3087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2996 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 2850 5800 50  0001 C CNN
-F 3 "~" H 2850 5800 50  0001 C CNN
-	1    2850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 2850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H112
-U 1 1 5CD6C36A
-P 3250 5800
-F 0 "H112" V 3487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3396 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3250 5800 50  0001 C CNN
-F 3 "~" H 3250 5800 50  0001 C CNN
-	1    3250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 3250 5700 1    50   Input ~ 0
-GND
 $Comp
 L #library:ProMicro U1
 U 1 1 5CE18F26
@@ -2131,7 +1277,7 @@ U 1 1 5CE4CCD8
 P 6200 3000
 F 0 "SW11" H 6200 3285 50  0000 C CNN
 F 1 "SW_Push" H 6200 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 6200 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 6200 3200 50  0001 C CNN
 F 3 "" H 6200 3200 50  0001 C CNN
 	1    6200 3000
 	1    0    0    -1  
@@ -2142,7 +1288,7 @@ U 1 1 5CE4CCDE
 P 7250 3000
 F 0 "SW12" H 7250 3285 50  0000 C CNN
 F 1 "SW_Push" H 7250 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 7250 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 3200 50  0001 C CNN
 F 3 "" H 7250 3200 50  0001 C CNN
 	1    7250 3000
 	1    0    0    -1  
@@ -2153,7 +1299,7 @@ U 1 1 5CE4CCE4
 P 8350 3000
 F 0 "SW13" H 8350 3285 50  0000 C CNN
 F 1 "SW_Push" H 8350 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 8350 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 8350 3200 50  0001 C CNN
 F 3 "" H 8350 3200 50  0001 C CNN
 	1    8350 3000
 	1    0    0    -1  
@@ -2164,7 +1310,7 @@ U 1 1 5CE4CCEA
 P 9400 3000
 F 0 "SW14" H 9400 3285 50  0000 C CNN
 F 1 "SW_Push" H 9400 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 9400 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 3200 50  0001 C CNN
 F 3 "" H 9400 3200 50  0001 C CNN
 	1    9400 3000
 	1    0    0    -1  
@@ -2186,18 +1332,16 @@ U 1 1 5CE4CCF6
 P 10450 3000
 F 0 "SW15" H 10450 3285 50  0000 C CNN
 F 1 "SW_Push" H 10450 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 10450 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 3200 50  0001 C CNN
 F 3 "" H 10450 3200 50  0001 C CNN
 	1    10450 3000
 	1    0    0    -1  
 $EndComp
-Text GLabel 5600 3200 0    39   Input ~ 0
+Text GLabel 5600 3300 0    39   Input ~ 0
 Y4
 Connection ~ 6000 3000
 Wire Wire Line
 	6000 3000 6000 3150
-Wire Wire Line
-	5700 3200 5700 3300
 $Comp
 L Mechanical:MountingHole_Pad H115
 U 1 1 5CE4CD00
@@ -2318,8 +1462,6 @@ Wire Wire Line
 Wire Wire Line
 	7050 3000 7050 3150
 Connection ~ 7050 3000
-Wire Wire Line
-	5600 3200 5700 3200
 $Comp
 L Mechanical:MountingHole_Pad H123
 U 1 1 5CE4CD46
@@ -2348,8 +1490,6 @@ $EndComp
 Connection ~ 6600 3300
 Wire Wire Line
 	6600 3300 7250 3300
-Wire Wire Line
-	5700 3300 6200 3300
 $Comp
 L Mechanical:MountingHole_Pad H126
 U 1 1 5CE4CD57
@@ -2491,17 +1631,16 @@ Wire Wire Line
 	9200 3000 9200 3150
 Connection ~ 9200 3000
 Wire Wire Line
-	6000 3150 6000 3450
+	7050 3150 7050 3450
 Wire Wire Line
 	9200 3150 9200 3450
 Connection ~ 9200 3150
-Connection ~ 6000 3150
 Connection ~ 6000 2850
 Connection ~ 7050 2850
 Connection ~ 8150 2850
 Connection ~ 9200 2850
 Connection ~ 10250 2850
-Connection ~ 6000 3450
+Connection ~ 7050 3450
 Connection ~ 7050 2550
 Connection ~ 8150 2550
 Connection ~ 9200 3450
@@ -2523,7 +1662,7 @@ U 1 1 5CE5B1FA
 P 9400 1200
 F 0 "SW19" H 9400 1485 50  0000 C CNN
 F 1 "SW_Push" H 9400 1394 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 9400 1400 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 1400 50  0001 C CNN
 F 3 "" H 9400 1400 50  0001 C CNN
 	1    9400 1200
 	1    0    0    -1  
@@ -2545,60 +1684,32 @@ U 1 1 5CE5B206
 P 10450 1200
 F 0 "SW20" H 10450 1485 50  0000 C CNN
 F 1 "SW_Push" H 10450 1394 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev2" H 10450 1400 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 1400 50  0001 C CNN
 F 3 "" H 10450 1400 50  0001 C CNN
 	1    10450 1200
 	1    0    0    -1  
 $EndComp
-Text GLabel 5600 1400 0    39   Input ~ 0
+Text GLabel 5600 1500 0    39   Input ~ 0
 Y1
 Wire Wire Line
 	9200 1200 9200 1350
 Wire Wire Line
 	10250 1200 10250 1350
-Text GLabel 5900 800  1    39   Input ~ 0
+Text GLabel 6000 800  1    39   Input ~ 0
 X1
-Text GLabel 6950 800  1    39   Input ~ 0
+Text GLabel 7050 800  1    39   Input ~ 0
 X2
-Text GLabel 8050 800  1    39   Input ~ 0
+Text GLabel 8150 800  1    39   Input ~ 0
 X3
-Text GLabel 9100 800  1    39   Input ~ 0
+Text GLabel 9200 800  1    39   Input ~ 0
 X4
-Text GLabel 10150 800  1    39   Input ~ 0
+Text GLabel 10250 800  1    39   Input ~ 0
 X5
-Wire Wire Line
-	5700 1400 5700 1500
-Wire Wire Line
-	5900 800  5900 900 
-Wire Wire Line
-	5900 900  6000 900 
-Wire Wire Line
-	6950 800  6950 900 
-Wire Wire Line
-	6950 900  7050 900 
-Wire Wire Line
-	8050 800  8050 900 
-Wire Wire Line
-	8050 900  8150 900 
-Wire Wire Line
-	9100 800  9100 900 
-Wire Wire Line
-	9100 900  9200 900 
-Wire Wire Line
-	10150 800  10150 900 
-Wire Wire Line
-	10150 900  10250 900 
-Wire Wire Line
-	9200 900  9200 1050
 Connection ~ 9200 1200
-Wire Wire Line
-	10250 900  10250 1050
 Connection ~ 10250 1200
 Connection ~ 9600 1500
 Wire Wire Line
 	9600 1500 9800 1500
-Wire Wire Line
-	5600 1400 5700 1400
 $Comp
 L Mechanical:MountingHole_Pad H137
 U 1 1 5CE5B292
@@ -2711,136 +1822,11 @@ Wire Wire Line
 Connection ~ 10650 1500
 Connection ~ 9200 1350
 Connection ~ 10250 1350
-Wire Wire Line
-	6000 900  6000 1650
-Wire Wire Line
-	7050 900  7050 1650
-Wire Wire Line
-	8150 900  8150 1650
-Wire Wire Line
-	5700 1500 9400 1500
 Connection ~ 6000 1650
 Connection ~ 7050 1650
 Connection ~ 8150 1650
 Connection ~ 9200 1650
 Connection ~ 10250 1650
-$Comp
-L Mechanical:MountingHole_Pad H141
-U 1 1 5CE7E454
-P 3450 5800
-F 0 "H141" V 3687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3596 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3450 5800 50  0001 C CNN
-F 3 "~" H 3450 5800 50  0001 C CNN
-	1    3450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 3450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H143
-U 1 1 5CE7E45B
-P 3850 5800
-F 0 "H143" V 4087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3996 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3850 5800 50  0001 C CNN
-F 3 "~" H 3850 5800 50  0001 C CNN
-	1    3850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 3850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H145
-U 1 1 5CE7E462
-P 4250 5800
-F 0 "H145" V 4487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4396 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4250 5800 50  0001 C CNN
-F 3 "~" H 4250 5800 50  0001 C CNN
-	1    4250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 4250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H147
-U 1 1 5CE7E469
-P 4650 5800
-F 0 "H147" V 4887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4796 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4650 5800 50  0001 C CNN
-F 3 "~" H 4650 5800 50  0001 C CNN
-	1    4650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 4650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H149
-U 1 1 5CE7E470
-P 5050 5800
-F 0 "H149" V 5287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5196 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5050 5800 50  0001 C CNN
-F 3 "~" H 5050 5800 50  0001 C CNN
-	1    5050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 5050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H142
-U 1 1 5CE7E47E
-P 3650 5800
-F 0 "H142" V 3887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3796 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 3650 5800 50  0001 C CNN
-F 3 "~" H 3650 5800 50  0001 C CNN
-	1    3650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 3650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H144
-U 1 1 5CE7E485
-P 4050 5800
-F 0 "H144" V 4287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4196 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4050 5800 50  0001 C CNN
-F 3 "~" H 4050 5800 50  0001 C CNN
-	1    4050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 4050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H146
-U 1 1 5CE7E48C
-P 4450 5800
-F 0 "H146" V 4687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4596 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4450 5800 50  0001 C CNN
-F 3 "~" H 4450 5800 50  0001 C CNN
-	1    4450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 4450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H148
-U 1 1 5CE7E493
-P 4850 5800
-F 0 "H148" V 5087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4996 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 4850 5800 50  0001 C CNN
-F 3 "~" H 4850 5800 50  0001 C CNN
-	1    4850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 4850 5700 1    50   Input ~ 0
-GND
 $Comp
 L power:GND #PWR0106
 U 1 1 5CE5189D
@@ -3080,721 +2066,6 @@ Wire Wire Line
 	1550 1800 1650 1800
 Text GLabel 5700 4450 2    50   Input ~ 0
 reset2
-$Comp
-L Mechanical:MountingHole_Pad H150
-U 1 1 5CF32A99
-P 5250 5800
-F 0 "H150" V 5487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5396 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5250 5800 50  0001 C CNN
-F 3 "~" H 5250 5800 50  0001 C CNN
-	1    5250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 5250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H152
-U 1 1 5CF32AA0
-P 5650 5800
-F 0 "H152" V 5887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5796 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5650 5800 50  0001 C CNN
-F 3 "~" H 5650 5800 50  0001 C CNN
-	1    5650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 5650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H154
-U 1 1 5CF32AA7
-P 6050 5800
-F 0 "H154" V 6287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6196 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6050 5800 50  0001 C CNN
-F 3 "~" H 6050 5800 50  0001 C CNN
-	1    6050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 6050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H156
-U 1 1 5CF32AAE
-P 6450 5800
-F 0 "H156" V 6687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6596 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6450 5800 50  0001 C CNN
-F 3 "~" H 6450 5800 50  0001 C CNN
-	1    6450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 6450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H158
-U 1 1 5CF32AB5
-P 6850 5800
-F 0 "H158" V 7087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6996 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6850 5800 50  0001 C CNN
-F 3 "~" H 6850 5800 50  0001 C CNN
-	1    6850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 6850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H160
-U 1 1 5CF32ABC
-P 7250 5800
-F 0 "H160" V 7487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7396 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 7250 5800 50  0001 C CNN
-F 3 "~" H 7250 5800 50  0001 C CNN
-	1    7250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 7250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H162
-U 1 1 5CF32AC3
-P 7650 5800
-F 0 "H162" V 7887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7796 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 7650 5800 50  0001 C CNN
-F 3 "~" H 7650 5800 50  0001 C CNN
-	1    7650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 7650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H164
-U 1 1 5CF32ACA
-P 8050 5800
-F 0 "H164" V 8287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8196 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 8050 5800 50  0001 C CNN
-F 3 "~" H 8050 5800 50  0001 C CNN
-	1    8050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 8050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H166
-U 1 1 5CF32AD1
-P 8450 5800
-F 0 "H166" V 8687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8596 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 8450 5800 50  0001 C CNN
-F 3 "~" H 8450 5800 50  0001 C CNN
-	1    8450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 8450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H168
-U 1 1 5CF32AD8
-P 8850 5800
-F 0 "H168" V 9087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8996 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 8850 5800 50  0001 C CNN
-F 3 "~" H 8850 5800 50  0001 C CNN
-	1    8850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 8850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H151
-U 1 1 5CF32ADF
-P 5450 5800
-F 0 "H151" V 5687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5596 5805 50  0000 C CNN
-F 2 "#footprint:M2_Pad" H 5450 5800 50  0001 C CNN
-F 3 "~" H 5450 5800 50  0001 C CNN
-	1    5450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 5450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H153
-U 1 1 5CF32AE6
-P 5850 5800
-F 0 "H153" V 6087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5996 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 5850 5800 50  0001 C CNN
-F 3 "~" H 5850 5800 50  0001 C CNN
-	1    5850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 5850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H155
-U 1 1 5CF32AED
-P 6250 5800
-F 0 "H155" V 6487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6396 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6250 5800 50  0001 C CNN
-F 3 "~" H 6250 5800 50  0001 C CNN
-	1    6250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 6250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H157
-U 1 1 5CF32AF4
-P 6650 5800
-F 0 "H157" V 6887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6796 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6650 5800 50  0001 C CNN
-F 3 "~" H 6650 5800 50  0001 C CNN
-	1    6650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 6650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H159
-U 1 1 5CF32AFB
-P 7050 5800
-F 0 "H159" V 7287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7196 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 7050 5800 50  0001 C CNN
-F 3 "~" H 7050 5800 50  0001 C CNN
-	1    7050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 7050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H161
-U 1 1 5CF32B02
-P 7450 5800
-F 0 "H161" V 7687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7596 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 7450 5800 50  0001 C CNN
-F 3 "~" H 7450 5800 50  0001 C CNN
-	1    7450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 7450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H163
-U 1 1 5CF32B09
-P 7850 5800
-F 0 "H163" V 8087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 7996 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 7850 5800 50  0001 C CNN
-F 3 "~" H 7850 5800 50  0001 C CNN
-	1    7850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 7850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H165
-U 1 1 5CF32B10
-P 8250 5800
-F 0 "H165" V 8487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8396 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 8250 5800 50  0001 C CNN
-F 3 "~" H 8250 5800 50  0001 C CNN
-	1    8250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 8250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H167
-U 1 1 5CF32B17
-P 8650 5800
-F 0 "H167" V 8887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 8796 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 8650 5800 50  0001 C CNN
-F 3 "~" H 8650 5800 50  0001 C CNN
-	1    8650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 8650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H169
-U 1 1 5CF3C657
-P 9050 5800
-F 0 "H169" V 9287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9196 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 9050 5800 50  0001 C CNN
-F 3 "~" H 9050 5800 50  0001 C CNN
-	1    9050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 9050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H171
-U 1 1 5CF3C65E
-P 9450 5800
-F 0 "H171" V 9687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9596 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 9450 5800 50  0001 C CNN
-F 3 "~" H 9450 5800 50  0001 C CNN
-	1    9450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 9450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H170
-U 1 1 5CF3C665
-P 9250 5800
-F 0 "H170" V 9487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9396 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 9250 5800 50  0001 C CNN
-F 3 "~" H 9250 5800 50  0001 C CNN
-	1    9250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 9250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H172
-U 1 1 5CF4F532
-P 9650 5800
-F 0 "H172" V 9887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9796 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 9650 5800 50  0001 C CNN
-F 3 "~" H 9650 5800 50  0001 C CNN
-	1    9650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 9650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H173
-U 1 1 5CF58D17
-P 9850 5800
-F 0 "H173" V 10087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9996 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 9850 5800 50  0001 C CNN
-F 3 "~" H 9850 5800 50  0001 C CNN
-	1    9850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 9850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H175
-U 1 1 5CF58D1E
-P 10250 5800
-F 0 "H175" V 10487 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10396 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 10250 5800 50  0001 C CNN
-F 3 "~" H 10250 5800 50  0001 C CNN
-	1    10250 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 10250 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H177
-U 1 1 5CF58D25
-P 10650 5800
-F 0 "H177" V 10887 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10796 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 10650 5800 50  0001 C CNN
-F 3 "~" H 10650 5800 50  0001 C CNN
-	1    10650 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 10650 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H179
-U 1 1 5CF58D2C
-P 850 6550
-F 0 "H179" V 1087 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 996 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 850 6550 50  0001 C CNN
-F 3 "~" H 850 6550 50  0001 C CNN
-	1    850  6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 850  6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H181
-U 1 1 5CF58D33
-P 1250 6550
-F 0 "H181" V 1487 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1396 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 1250 6550 50  0001 C CNN
-F 3 "~" H 1250 6550 50  0001 C CNN
-	1    1250 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 1250 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H174
-U 1 1 5CF58D3A
-P 10050 5800
-F 0 "H174" V 10287 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10196 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 10050 5800 50  0001 C CNN
-F 3 "~" H 10050 5800 50  0001 C CNN
-	1    10050 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 10050 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H176
-U 1 1 5CF58D41
-P 10450 5800
-F 0 "H176" V 10687 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10596 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 10450 5800 50  0001 C CNN
-F 3 "~" H 10450 5800 50  0001 C CNN
-	1    10450 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 10450 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H178
-U 1 1 5CF58D48
-P 10850 5800
-F 0 "H178" V 11087 5805 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10996 5805 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 10850 5800 50  0001 C CNN
-F 3 "~" H 10850 5800 50  0001 C CNN
-	1    10850 5800
-	-1   0    0    1   
-$EndComp
-Text GLabel 10850 5700 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H180
-U 1 1 5CF58D4F
-P 1050 6550
-F 0 "H180" V 1287 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1196 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 1050 6550 50  0001 C CNN
-F 3 "~" H 1050 6550 50  0001 C CNN
-	1    1050 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 1050 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H182
-U 1 1 5CF58D56
-P 1450 6550
-F 0 "H182" V 1687 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1596 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 1450 6550 50  0001 C CNN
-F 3 "~" H 1450 6550 50  0001 C CNN
-	1    1450 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 1450 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H184
-U 1 1 5CF58D5D
-P 1850 6550
-F 0 "H184" V 2087 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1996 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 1850 6550 50  0001 C CNN
-F 3 "~" H 1850 6550 50  0001 C CNN
-	1    1850 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 1850 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H186
-U 1 1 5CF58D64
-P 2250 6550
-F 0 "H186" V 2487 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2396 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 2250 6550 50  0001 C CNN
-F 3 "~" H 2250 6550 50  0001 C CNN
-	1    2250 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 2250 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H188
-U 1 1 5CF58D6B
-P 2650 6550
-F 0 "H188" V 2887 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2796 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 2650 6550 50  0001 C CNN
-F 3 "~" H 2650 6550 50  0001 C CNN
-	1    2650 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 2650 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H190
-U 1 1 5CF58D72
-P 3050 6550
-F 0 "H190" V 3287 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3196 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 3050 6550 50  0001 C CNN
-F 3 "~" H 3050 6550 50  0001 C CNN
-	1    3050 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 3050 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H192
-U 1 1 5CF58D79
-P 3450 6550
-F 0 "H192" V 3687 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3596 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 3450 6550 50  0001 C CNN
-F 3 "~" H 3450 6550 50  0001 C CNN
-	1    3450 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 3450 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H194
-U 1 1 5CF58D80
-P 3850 6550
-F 0 "H194" V 4087 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3996 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 3850 6550 50  0001 C CNN
-F 3 "~" H 3850 6550 50  0001 C CNN
-	1    3850 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 3850 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H196
-U 1 1 5CF58D87
-P 4250 6550
-F 0 "H196" V 4487 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4396 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 4250 6550 50  0001 C CNN
-F 3 "~" H 4250 6550 50  0001 C CNN
-	1    4250 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 4250 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H198
-U 1 1 5CF58D8E
-P 4650 6550
-F 0 "H198" V 4887 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4796 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 4650 6550 50  0001 C CNN
-F 3 "~" H 4650 6550 50  0001 C CNN
-	1    4650 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 4650 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H200
-U 1 1 5CF58D95
-P 5050 6550
-F 0 "H200" V 5287 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5196 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 5050 6550 50  0001 C CNN
-F 3 "~" H 5050 6550 50  0001 C CNN
-	1    5050 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 5050 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H183
-U 1 1 5CF58D9C
-P 1650 6550
-F 0 "H183" V 1887 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 1796 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 1650 6550 50  0001 C CNN
-F 3 "~" H 1650 6550 50  0001 C CNN
-	1    1650 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 1650 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H185
-U 1 1 5CF58DA3
-P 2050 6550
-F 0 "H185" V 2287 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2196 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 2050 6550 50  0001 C CNN
-F 3 "~" H 2050 6550 50  0001 C CNN
-	1    2050 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 2050 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H187
-U 1 1 5CF58DAA
-P 2450 6550
-F 0 "H187" V 2687 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2596 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 2450 6550 50  0001 C CNN
-F 3 "~" H 2450 6550 50  0001 C CNN
-	1    2450 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 2450 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H189
-U 1 1 5CF58DB1
-P 2850 6550
-F 0 "H189" V 3087 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 2996 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 2850 6550 50  0001 C CNN
-F 3 "~" H 2850 6550 50  0001 C CNN
-	1    2850 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 2850 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H191
-U 1 1 5CF58DB8
-P 3250 6550
-F 0 "H191" V 3487 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3396 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 3250 6550 50  0001 C CNN
-F 3 "~" H 3250 6550 50  0001 C CNN
-	1    3250 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 3250 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H193
-U 1 1 5CF58DBF
-P 3650 6550
-F 0 "H193" V 3887 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 3796 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 3650 6550 50  0001 C CNN
-F 3 "~" H 3650 6550 50  0001 C CNN
-	1    3650 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 3650 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H195
-U 1 1 5CF58DC6
-P 4050 6550
-F 0 "H195" V 4287 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4196 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 4050 6550 50  0001 C CNN
-F 3 "~" H 4050 6550 50  0001 C CNN
-	1    4050 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 4050 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H197
-U 1 1 5CF58DCD
-P 4450 6550
-F 0 "H197" V 4687 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4596 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 4450 6550 50  0001 C CNN
-F 3 "~" H 4450 6550 50  0001 C CNN
-	1    4450 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 4450 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H199
-U 1 1 5CF58DD4
-P 4850 6550
-F 0 "H199" V 5087 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 4996 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 4850 6550 50  0001 C CNN
-F 3 "~" H 4850 6550 50  0001 C CNN
-	1    4850 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 4850 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H201
-U 1 1 5CF58DDB
-P 5250 6550
-F 0 "H201" V 5487 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5396 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 5250 6550 50  0001 C CNN
-F 3 "~" H 5250 6550 50  0001 C CNN
-	1    5250 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 5250 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H203
-U 1 1 5CF58DE2
-P 5650 6550
-F 0 "H203" V 5887 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5796 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 5650 6550 50  0001 C CNN
-F 3 "~" H 5650 6550 50  0001 C CNN
-	1    5650 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 5650 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H202
-U 1 1 5CF58DE9
-P 5450 6550
-F 0 "H202" V 5687 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5596 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 5450 6550 50  0001 C CNN
-F 3 "~" H 5450 6550 50  0001 C CNN
-	1    5450 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 5450 6450 1    50   Input ~ 0
-GND
-$Comp
-L Mechanical:MountingHole_Pad H204
-U 1 1 5CF58DF0
-P 5850 6550
-F 0 "H204" V 6087 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 5996 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 5850 6550 50  0001 C CNN
-F 3 "~" H 5850 6550 50  0001 C CNN
-	1    5850 6550
-	-1   0    0    1   
-$EndComp
-Text GLabel 5850 6450 1    50   Input ~ 0
-GND
 Wire Wire Line
 	4050 1500 3450 1500
 Connection ~ 4050 1500
@@ -3803,69 +2074,113 @@ Wire Wire Line
 Connection ~ 4050 1600
 Wire Wire Line
 	3950 1700 3450 1700
+Connection ~ 9400 3900
+Connection ~ 7650 3900
+Connection ~ 7050 3150
+Wire Wire Line
+	9800 3900 10450 3900
+Connection ~ 9800 3900
 $Comp
-L Mechanical:MountingHole_Pad H206
-U 1 1 5CFE24F6
-P 6250 6550
-F 0 "H206" V 6487 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6396 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6250 6550 50  0001 C CNN
-F 3 "~" H 6250 6550 50  0001 C CNN
-	1    6250 6550
-	-1   0    0    1   
+L Device:D D20
+U 1 1 5D04CD16
+P 10650 3750
+F 0 "D20" H 10650 3850 50  0000 C CNN
+F 1 "D" H 10650 3650 50  0000 C CNN
+F 2 "#footprint:diode_TH_SMD" H 10650 3750 50  0001 C CNN
+F 3 "" H 10650 3750 50  0001 C CNN
+	1    10650 3750
+	0    -1   -1   0   
 $EndComp
-Text GLabel 6250 6450 1    50   Input ~ 0
-GND
 $Comp
-L Mechanical:MountingHole_Pad H208
-U 1 1 5CFE24FD
-P 6650 6550
-F 0 "H208" V 6887 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6796 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6650 6550 50  0001 C CNN
-F 3 "~" H 6650 6550 50  0001 C CNN
-	1    6650 6550
-	-1   0    0    1   
+L Switch:SW_Push SW21
+U 1 1 5D04CD1C
+P 10450 3600
+F 0 "SW21" H 10450 3885 50  0000 C CNN
+F 1 "SW_Push" H 10450 3794 50  0000 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 3800 50  0001 C CNN
+F 3 "" H 10450 3800 50  0001 C CNN
+	1    10450 3600
+	1    0    0    -1  
 $EndComp
-Text GLabel 6650 6450 1    50   Input ~ 0
-GND
+Connection ~ 10650 3900
+Wire Wire Line
+	10650 3900 10850 3900
 $Comp
-L Mechanical:MountingHole_Pad H205
-U 1 1 5CFE252E
-P 6050 6550
-F 0 "H205" V 6287 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6196 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6050 6550 50  0001 C CNN
-F 3 "~" H 6050 6550 50  0001 C CNN
-	1    6050 6550
-	-1   0    0    1   
+L Mechanical:MountingHole_Pad H212
+U 1 1 5D04CD24
+P 10450 3800
+F 0 "H212" H 10550 3851 50  0000 L CNN
+F 1 "MountingHole_Pad" H 10550 3760 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 10450 3800 50  0001 C CNN
+F 3 "~" H 10450 3800 50  0001 C CNN
+	1    10450 3800
+	1    0    0    -1  
 $EndComp
-Text GLabel 6050 6450 1    50   Input ~ 0
-GND
+Wire Wire Line
+	10450 3900 10650 3900
 $Comp
-L Mechanical:MountingHole_Pad H207
-U 1 1 5CFE2535
-P 6450 6550
-F 0 "H207" V 6687 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6596 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6450 6550 50  0001 C CNN
-F 3 "~" H 6450 6550 50  0001 C CNN
-	1    6450 6550
-	-1   0    0    1   
+L Mechanical:MountingHole_Pad H213
+U 1 1 5D04CD2B
+P 10850 3800
+F 0 "H213" H 10950 3851 50  0000 L CNN
+F 1 "MountingHole_Pad" H 10950 3760 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 10850 3800 50  0001 C CNN
+F 3 "~" H 10850 3800 50  0001 C CNN
+	1    10850 3800
+	1    0    0    -1  
 $EndComp
-Text GLabel 6450 6450 1    50   Input ~ 0
-GND
 $Comp
-L Mechanical:MountingHole_Pad H209
-U 1 1 5D000794
-P 6850 6550
-F 0 "H209" V 7087 6555 50  0000 C CNN
-F 1 "MountingHole_Pad" V 6996 6555 50  0000 C CNN
-F 2 "#footprint:M1.4_tapping_Pad" H 6850 6550 50  0001 C CNN
-F 3 "~" H 6850 6550 50  0001 C CNN
-	1    6850 6550
-	-1   0    0    1   
+L Mechanical:MountingHole_Pad H210
+U 1 1 5D04CD31
+P 10150 3450
+F 0 "H210" V 10387 3455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 10296 3455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 10150 3450 50  0001 C CNN
+F 3 "~" H 10150 3450 50  0001 C CNN
+	1    10150 3450
+	0    -1   -1   0   
 $EndComp
-Text GLabel 6850 6450 1    50   Input ~ 0
-GND
+Wire Wire Line
+	10250 3450 10250 3600
+$Comp
+L Mechanical:MountingHole_Pad H211
+U 1 1 5D04CD38
+P 10150 3750
+F 0 "H211" V 10387 3755 50  0000 C CNN
+F 1 "MountingHole_Pad" V 10296 3755 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 10150 3750 50  0001 C CNN
+F 3 "~" H 10150 3750 50  0001 C CNN
+	1    10150 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10250 3600 10250 3750
+Connection ~ 10250 3600
+Connection ~ 10450 3900
+Wire Wire Line
+	10250 3150 10250 3450
+Connection ~ 10250 3450
+Connection ~ 10250 3150
+Wire Wire Line
+	7650 3900 9400 3900
+Wire Wire Line
+	5600 3900 7250 3900
+Wire Wire Line
+	5600 3300 6200 3300
+Wire Wire Line
+	5600 2700 6200 2700
+Wire Wire Line
+	5600 2100 6200 2100
+Wire Wire Line
+	5600 1500 9400 1500
+Wire Wire Line
+	10250 800  10250 1050
+Wire Wire Line
+	9200 800  9200 1050
+Wire Wire Line
+	8150 800  8150 1650
+Wire Wire Line
+	7050 800  7050 1650
+Wire Wire Line
+	6000 800  6000 1650
 $EndSCHEMATC
