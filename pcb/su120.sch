@@ -1852,7 +1852,7 @@ U 1 1 5CE5F218
 P 3900 3250
 F 0 "J3" H 3980 3242 50  0000 L CNN
 F 1 "Conn_01x08" H 3980 3151 50  0000 L CNN
-F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical" H 3900 3250 50  0001 C CNN
+F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical_rev2" H 3900 3250 50  0001 C CNN
 F 3 "~" H 3900 3250 50  0001 C CNN
 	1    3900 3250
 	-1   0    0    -1  
@@ -1863,7 +1863,7 @@ U 1 1 5CE5F3DE
 P 1750 3250
 F 0 "J4" H 1670 3767 50  0000 C CNN
 F 1 "Conn_01x08" H 1670 3676 50  0000 C CNN
-F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical" H 1750 3250 50  0001 C CNN
+F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical_rev2" H 1750 3250 50  0001 C CNN
 F 3 "~" H 1750 3250 50  0001 C CNN
 	1    1750 3250
 	1    0    0    -1  
