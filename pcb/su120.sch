@@ -5,9 +5,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "SU120 (Yakitori Keyboard)"
+Title "SU120 Yakitori Keyboard"
 Date ""
-Rev "3"
+Rev "4"
 Comp "@e3w2q"
 Comment1 ""
 Comment2 ""
@@ -112,7 +112,7 @@ U 1 1 5C43B1D6
 P 6200 1800
 F 0 "SW1" H 6200 2085 50  0000 C CNN
 F 1 "SW_Push" H 6200 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 6200 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 6200 2000 50  0001 C CNN
 F 3 "" H 6200 2000 50  0001 C CNN
 	1    6200 1800
 	1    0    0    -1  
@@ -123,7 +123,7 @@ U 1 1 5C43B248
 P 7250 1800
 F 0 "SW2" H 7250 2085 50  0000 C CNN
 F 1 "SW_Push" H 7250 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 2000 50  0001 C CNN
 F 3 "" H 7250 2000 50  0001 C CNN
 	1    7250 1800
 	1    0    0    -1  
@@ -134,7 +134,7 @@ U 1 1 5C43B29E
 P 8350 1800
 F 0 "SW3" H 8350 2085 50  0000 C CNN
 F 1 "SW_Push" H 8350 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 8350 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 8350 2000 50  0001 C CNN
 F 3 "" H 8350 2000 50  0001 C CNN
 	1    8350 1800
 	1    0    0    -1  
@@ -145,7 +145,7 @@ U 1 1 5C43B2EA
 P 9400 1800
 F 0 "SW4" H 9400 2085 50  0000 C CNN
 F 1 "SW_Push" H 9400 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 2000 50  0001 C CNN
 F 3 "" H 9400 2000 50  0001 C CNN
 	1    9400 1800
 	1    0    0    -1  
@@ -156,7 +156,7 @@ U 1 1 5C43B33A
 P 6200 2400
 F 0 "SW6" H 6200 2685 50  0000 C CNN
 F 1 "SW_Push" H 6200 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 6200 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 6200 2600 50  0001 C CNN
 F 3 "" H 6200 2600 50  0001 C CNN
 	1    6200 2400
 	1    0    0    -1  
@@ -167,7 +167,7 @@ U 1 1 5C43B3A2
 P 7250 2400
 F 0 "SW7" H 7250 2685 50  0000 C CNN
 F 1 "SW_Push" H 7250 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 2600 50  0001 C CNN
 F 3 "" H 7250 2600 50  0001 C CNN
 	1    7250 2400
 	1    0    0    -1  
@@ -178,7 +178,7 @@ U 1 1 5C43B3F4
 P 8350 2400
 F 0 "SW8" H 8350 2685 50  0000 C CNN
 F 1 "SW_Push" H 8350 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 8350 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 8350 2600 50  0001 C CNN
 F 3 "" H 8350 2600 50  0001 C CNN
 	1    8350 2400
 	1    0    0    -1  
@@ -189,7 +189,7 @@ U 1 1 5C43B44C
 P 9400 2400
 F 0 "SW9" H 9400 2685 50  0000 C CNN
 F 1 "SW_Push" H 9400 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 2600 50  0001 C CNN
 F 3 "" H 9400 2600 50  0001 C CNN
 	1    9400 2400
 	1    0    0    -1  
@@ -222,7 +222,7 @@ U 1 1 5C485058
 P 10450 1800
 F 0 "SW5" H 10450 2085 50  0000 C CNN
 F 1 "SW_Push" H 10450 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 2000 50  0001 C CNN
 F 3 "" H 10450 2000 50  0001 C CNN
 	1    10450 1800
 	1    0    0    -1  
@@ -233,7 +233,7 @@ U 1 1 5C485061
 P 10450 2400
 F 0 "SW10" H 10450 2685 50  0000 C CNN
 F 1 "SW_Push" H 10450 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 2600 50  0001 C CNN
 F 3 "" H 10450 2600 50  0001 C CNN
 	1    10450 2400
 	1    0    0    -1  
@@ -855,7 +855,7 @@ U 1 1 5C71DC38
 P 7250 3600
 F 0 "SW16" H 7250 3885 50  0000 C CNN
 F 1 "SW_Push" H 7250 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 3800 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 3800 50  0001 C CNN
 F 3 "" H 7250 3800 50  0001 C CNN
 	1    7250 3600
 	1    0    0    -1  
@@ -866,7 +866,7 @@ U 1 1 5C71DC44
 P 9400 3600
 F 0 "SW17" H 9400 3885 50  0000 C CNN
 F 1 "SW_Push" H 9400 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 3800 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 3800 50  0001 C CNN
 F 3 "" H 9400 3800 50  0001 C CNN
 	1    9400 3600
 	1    0    0    -1  
@@ -1277,7 +1277,7 @@ U 1 1 5CE4CCD8
 P 6200 3000
 F 0 "SW11" H 6200 3285 50  0000 C CNN
 F 1 "SW_Push" H 6200 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 6200 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 6200 3200 50  0001 C CNN
 F 3 "" H 6200 3200 50  0001 C CNN
 	1    6200 3000
 	1    0    0    -1  
@@ -1288,7 +1288,7 @@ U 1 1 5CE4CCDE
 P 7250 3000
 F 0 "SW12" H 7250 3285 50  0000 C CNN
 F 1 "SW_Push" H 7250 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 7250 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 3200 50  0001 C CNN
 F 3 "" H 7250 3200 50  0001 C CNN
 	1    7250 3000
 	1    0    0    -1  
@@ -1299,7 +1299,7 @@ U 1 1 5CE4CCE4
 P 8350 3000
 F 0 "SW13" H 8350 3285 50  0000 C CNN
 F 1 "SW_Push" H 8350 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 8350 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 8350 3200 50  0001 C CNN
 F 3 "" H 8350 3200 50  0001 C CNN
 	1    8350 3000
 	1    0    0    -1  
@@ -1310,7 +1310,7 @@ U 1 1 5CE4CCEA
 P 9400 3000
 F 0 "SW14" H 9400 3285 50  0000 C CNN
 F 1 "SW_Push" H 9400 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 3200 50  0001 C CNN
 F 3 "" H 9400 3200 50  0001 C CNN
 	1    9400 3000
 	1    0    0    -1  
@@ -1332,7 +1332,7 @@ U 1 1 5CE4CCF6
 P 10450 3000
 F 0 "SW15" H 10450 3285 50  0000 C CNN
 F 1 "SW_Push" H 10450 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 3200 50  0001 C CNN
 F 3 "" H 10450 3200 50  0001 C CNN
 	1    10450 3000
 	1    0    0    -1  
@@ -1662,7 +1662,7 @@ U 1 1 5CE5B1FA
 P 9400 1200
 F 0 "SW19" H 9400 1485 50  0000 C CNN
 F 1 "SW_Push" H 9400 1394 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 9400 1400 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 1400 50  0001 C CNN
 F 3 "" H 9400 1400 50  0001 C CNN
 	1    9400 1200
 	1    0    0    -1  
@@ -1684,7 +1684,7 @@ U 1 1 5CE5B206
 P 10450 1200
 F 0 "SW20" H 10450 1485 50  0000 C CNN
 F 1 "SW_Push" H 10450 1394 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 1400 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 1400 50  0001 C CNN
 F 3 "" H 10450 1400 50  0001 C CNN
 	1    10450 1200
 	1    0    0    -1  
@@ -1852,7 +1852,7 @@ U 1 1 5CE5F218
 P 3900 3250
 F 0 "J3" H 3980 3242 50  0000 L CNN
 F 1 "Conn_01x08" H 3980 3151 50  0000 L CNN
-F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical" H 3900 3250 50  0001 C CNN
+F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical_rev2" H 3900 3250 50  0001 C CNN
 F 3 "~" H 3900 3250 50  0001 C CNN
 	1    3900 3250
 	-1   0    0    -1  
@@ -1863,7 +1863,7 @@ U 1 1 5CE5F3DE
 P 1750 3250
 F 0 "J4" H 1670 3767 50  0000 C CNN
 F 1 "Conn_01x08" H 1670 3676 50  0000 C CNN
-F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical" H 1750 3250 50  0001 C CNN
+F 2 "#footprint:PinHeader_1x08_P2.54mm_Vertical_rev2" H 1750 3250 50  0001 C CNN
 F 3 "~" H 1750 3250 50  0001 C CNN
 	1    1750 3250
 	1    0    0    -1  
@@ -2097,7 +2097,7 @@ U 1 1 5D04CD1C
 P 10450 3600
 F 0 "SW21" H 10450 3885 50  0000 C CNN
 F 1 "SW_Push" H 10450 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev4" H 10450 3800 50  0001 C CNN
+F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 3800 50  0001 C CNN
 F 3 "" H 10450 3800 50  0001 C CNN
 	1    10450 3600
 	1    0    0    -1  
