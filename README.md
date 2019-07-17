@@ -18,19 +18,29 @@ I made it open source so that anyone interested in keyboard could try the keyboa
 
 ## Link
 
-- [Hardware data (PCB)](/pcb/)
-- [PCB Order Guide](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide.md) / [PCBの入手方法](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide_jp.md)
+[Hardware data (PCB)](/pcb/)
 
-- [Firmware](https://github.com/e3w2q/qmk_firmware/tree/su120/keyboards/handwired/su120)
+[PCB Order Guide](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide.md) / [PCBの入手方法](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide_jp.md)
 
+[Firmware](https://github.com/e3w2q/qmk_firmware/tree/su120/keyboards/handwired/su120)
 
-## One Board Keypad
-![image](https://github.com/e3w2q/su120-keyboard-doc/blob/master/one-board-keypad/keycap_attached.jpg?raw=true)
+## Example
 
-- [ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/one-board-keypad/index_jp.md)
+### 17 key keypad
 
-<!---
-- [Build guide](/)
--->
+![sasami17](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/image/sasami17.jpg?raw=true)
 
+[ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
+
+### 3x10 ortholinear keyboard
+
+![sasami30](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/image/sasami30.jpg?raw=true)
+
+[ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/readme_jp.md)
+
+### 34 key split ortholinear keyboard
+
+![momo34](https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo34/image/momo34.jpg?raw=true)
+
+[ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo34/readme_jp.md)
 
