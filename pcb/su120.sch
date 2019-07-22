@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "SU120 Yakitori Keyboard"
 Date ""
-Rev "4"
+Rev "5"
 Comp "@e3w2q"
 Comment1 ""
 Comment2 ""
@@ -2162,9 +2162,9 @@ Wire Wire Line
 Connection ~ 10250 3450
 Connection ~ 10250 3150
 Wire Wire Line
-	7650 3900 9400 3900
+	7650 3900 7750 3900
 Wire Wire Line
-	5600 3900 7250 3900
+	5600 3900 7150 3900
 Wire Wire Line
 	5600 3300 6200 3300
 Wire Wire Line
@@ -2183,4 +2183,32 @@ Wire Wire Line
 	7050 800  7050 1650
 Wire Wire Line
 	6000 800  6000 1650
+$Comp
+L Mechanical:MountingHole_Pad H50
+U 1 1 5D363A98
+P 7750 3800
+F 0 "H50" H 7850 3851 50  0000 L CNN
+F 1 "MountingHole_Pad" H 7850 3760 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 7750 3800 50  0001 C CNN
+F 3 "~" H 7750 3800 50  0001 C CNN
+	1    7750 3800
+	1    0    0    -1  
+$EndComp
+Connection ~ 7750 3900
+Wire Wire Line
+	7750 3900 9400 3900
+$Comp
+L Mechanical:MountingHole_Pad H49
+U 1 1 5D363BD2
+P 7150 3800
+F 0 "H49" H 7250 3851 50  0000 L CNN
+F 1 "MountingHole_Pad" H 7250 3760 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 7150 3800 50  0001 C CNN
+F 3 "~" H 7150 3800 50  0001 C CNN
+	1    7150 3800
+	1    0    0    -1  
+$EndComp
+Connection ~ 7150 3900
+Wire Wire Line
+	7150 3900 7250 3900
 $EndSCHEMATC

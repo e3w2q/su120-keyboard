@@ -1,4 +1,4 @@
-(module M2_spacer (layer F.Cu) (tedit 5D1B5AD4)
+(module M2_spacer (layer F.Cu) (tedit 5D35BCBB)
   (descr "Resitance 3 pas")
   (tags R)
   (autoplace_cost180 10)
