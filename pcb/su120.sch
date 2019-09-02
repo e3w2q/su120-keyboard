@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "SU120 Yakitori Keyboard"
 Date ""
-Rev "5"
+Rev "6"
 Comp "@e3w2q"
 Comment1 ""
 Comment2 ""
@@ -112,7 +112,7 @@ U 1 1 5C43B1D6
 P 6200 1800
 F 0 "SW1" H 6200 2085 50  0000 C CNN
 F 1 "SW_Push" H 6200 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 6200 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 6200 2000 50  0001 C CNN
 F 3 "" H 6200 2000 50  0001 C CNN
 	1    6200 1800
 	1    0    0    -1  
@@ -123,7 +123,7 @@ U 1 1 5C43B248
 P 7250 1800
 F 0 "SW2" H 7250 2085 50  0000 C CNN
 F 1 "SW_Push" H 7250 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 7250 2000 50  0001 C CNN
 F 3 "" H 7250 2000 50  0001 C CNN
 	1    7250 1800
 	1    0    0    -1  
@@ -134,7 +134,7 @@ U 1 1 5C43B29E
 P 8350 1800
 F 0 "SW3" H 8350 2085 50  0000 C CNN
 F 1 "SW_Push" H 8350 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 8350 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 8350 2000 50  0001 C CNN
 F 3 "" H 8350 2000 50  0001 C CNN
 	1    8350 1800
 	1    0    0    -1  
@@ -145,7 +145,7 @@ U 1 1 5C43B2EA
 P 9400 1800
 F 0 "SW4" H 9400 2085 50  0000 C CNN
 F 1 "SW_Push" H 9400 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 9400 2000 50  0001 C CNN
 F 3 "" H 9400 2000 50  0001 C CNN
 	1    9400 1800
 	1    0    0    -1  
@@ -156,7 +156,7 @@ U 1 1 5C43B33A
 P 6200 2400
 F 0 "SW6" H 6200 2685 50  0000 C CNN
 F 1 "SW_Push" H 6200 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 6200 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 6200 2600 50  0001 C CNN
 F 3 "" H 6200 2600 50  0001 C CNN
 	1    6200 2400
 	1    0    0    -1  
@@ -167,7 +167,7 @@ U 1 1 5C43B3A2
 P 7250 2400
 F 0 "SW7" H 7250 2685 50  0000 C CNN
 F 1 "SW_Push" H 7250 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 7250 2600 50  0001 C CNN
 F 3 "" H 7250 2600 50  0001 C CNN
 	1    7250 2400
 	1    0    0    -1  
@@ -178,7 +178,7 @@ U 1 1 5C43B3F4
 P 8350 2400
 F 0 "SW8" H 8350 2685 50  0000 C CNN
 F 1 "SW_Push" H 8350 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 8350 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 8350 2600 50  0001 C CNN
 F 3 "" H 8350 2600 50  0001 C CNN
 	1    8350 2400
 	1    0    0    -1  
@@ -189,7 +189,7 @@ U 1 1 5C43B44C
 P 9400 2400
 F 0 "SW9" H 9400 2685 50  0000 C CNN
 F 1 "SW_Push" H 9400 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 9400 2600 50  0001 C CNN
 F 3 "" H 9400 2600 50  0001 C CNN
 	1    9400 2400
 	1    0    0    -1  
@@ -222,7 +222,7 @@ U 1 1 5C485058
 P 10450 1800
 F 0 "SW5" H 10450 2085 50  0000 C CNN
 F 1 "SW_Push" H 10450 1994 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 2000 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 10450 2000 50  0001 C CNN
 F 3 "" H 10450 2000 50  0001 C CNN
 	1    10450 1800
 	1    0    0    -1  
@@ -233,15 +233,15 @@ U 1 1 5C485061
 P 10450 2400
 F 0 "SW10" H 10450 2685 50  0000 C CNN
 F 1 "SW_Push" H 10450 2594 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 2600 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 10450 2600 50  0001 C CNN
 F 3 "" H 10450 2600 50  0001 C CNN
 	1    10450 2400
 	1    0    0    -1  
 $EndComp
 Text GLabel 5600 2100 0    39   Input ~ 0
-Y2
+Y1
 Text GLabel 5600 2700 0    39   Input ~ 0
-Y3
+Y2
 Wire Wire Line
 	9200 1800 9200 1950
 Wire Wire Line
@@ -855,7 +855,7 @@ U 1 1 5C71DC38
 P 7250 3600
 F 0 "SW16" H 7250 3885 50  0000 C CNN
 F 1 "SW_Push" H 7250 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 3800 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 7250 3800 50  0001 C CNN
 F 3 "" H 7250 3800 50  0001 C CNN
 	1    7250 3600
 	1    0    0    -1  
@@ -866,13 +866,13 @@ U 1 1 5C71DC44
 P 9400 3600
 F 0 "SW17" H 9400 3885 50  0000 C CNN
 F 1 "SW_Push" H 9400 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 3800 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 9400 3800 50  0001 C CNN
 F 3 "" H 9400 3800 50  0001 C CNN
 	1    9400 3600
 	1    0    0    -1  
 $EndComp
 Text GLabel 5600 3900 0    39   Input ~ 0
-Y5
+Y4
 Wire Wire Line
 	6000 2550 6000 2850
 $Comp
@@ -994,7 +994,7 @@ U 1 1 5CE18F26
 P 2750 2150
 F 0 "U1" H 2750 3187 60  0000 C CNN
 F 1 "ProMicro" H 2750 3081 60  0000 C CNN
-F 2 "#footprint:ArduinoProMicro-ZigZag_rev4" H 2850 1100 60  0001 C CNN
+F 2 "#footprint:ArduinoProMicro-ZigZag_rev5" H 2850 1100 60  0001 C CNN
 F 3 "" H 2850 1100 60  0000 C CNN
 	1    2750 2150
 	1    0    0    -1  
@@ -1142,15 +1142,15 @@ $EndComp
 $Comp
 L Switch:SW_Push SW18
 U 1 1 5CE3F474
-P 5500 4450
-F 0 "SW18" H 5500 4735 50  0000 C CNN
-F 1 "SW_Push" H 5500 4644 50  0000 C CNN
-F 2 "#footprint:ResetSW" H 5500 4650 50  0001 C CNN
-F 3 "" H 5500 4650 50  0001 C CNN
-	1    5500 4450
+P 5500 4750
+F 0 "SW18" H 5500 5035 50  0000 C CNN
+F 1 "SW_Push" H 5500 4944 50  0000 C CNN
+F 2 "#footprint:ResetSW" H 5500 4950 50  0001 C CNN
+F 3 "" H 5500 4950 50  0001 C CNN
+	1    5500 4750
 	1    0    0    -1  
 $EndComp
-Text GLabel 5300 4450 0    50   Input ~ 0
+Text GLabel 5300 4750 0    50   Input ~ 0
 reset1
 $Comp
 L Connector_Generic:Conn_01x03 J2
@@ -1277,7 +1277,7 @@ U 1 1 5CE4CCD8
 P 6200 3000
 F 0 "SW11" H 6200 3285 50  0000 C CNN
 F 1 "SW_Push" H 6200 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 6200 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 6200 3200 50  0001 C CNN
 F 3 "" H 6200 3200 50  0001 C CNN
 	1    6200 3000
 	1    0    0    -1  
@@ -1288,7 +1288,7 @@ U 1 1 5CE4CCDE
 P 7250 3000
 F 0 "SW12" H 7250 3285 50  0000 C CNN
 F 1 "SW_Push" H 7250 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 7250 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 7250 3200 50  0001 C CNN
 F 3 "" H 7250 3200 50  0001 C CNN
 	1    7250 3000
 	1    0    0    -1  
@@ -1299,7 +1299,7 @@ U 1 1 5CE4CCE4
 P 8350 3000
 F 0 "SW13" H 8350 3285 50  0000 C CNN
 F 1 "SW_Push" H 8350 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 8350 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 8350 3200 50  0001 C CNN
 F 3 "" H 8350 3200 50  0001 C CNN
 	1    8350 3000
 	1    0    0    -1  
@@ -1310,7 +1310,7 @@ U 1 1 5CE4CCEA
 P 9400 3000
 F 0 "SW14" H 9400 3285 50  0000 C CNN
 F 1 "SW_Push" H 9400 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 9400 3200 50  0001 C CNN
 F 3 "" H 9400 3200 50  0001 C CNN
 	1    9400 3000
 	1    0    0    -1  
@@ -1332,13 +1332,13 @@ U 1 1 5CE4CCF6
 P 10450 3000
 F 0 "SW15" H 10450 3285 50  0000 C CNN
 F 1 "SW_Push" H 10450 3194 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 3200 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 10450 3200 50  0001 C CNN
 F 3 "" H 10450 3200 50  0001 C CNN
 	1    10450 3000
 	1    0    0    -1  
 $EndComp
 Text GLabel 5600 3300 0    39   Input ~ 0
-Y4
+Y3
 Connection ~ 6000 3000
 Wire Wire Line
 	6000 3000 6000 3150
@@ -1648,185 +1648,151 @@ Connection ~ 10250 2550
 $Comp
 L Device:D D18
 U 1 1 5CE5B1E1
-P 9600 1350
-F 0 "D18" H 9600 1450 50  0000 C CNN
-F 1 "D" H 9600 1250 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 9600 1350 50  0001 C CNN
-F 3 "" H 9600 1350 50  0001 C CNN
-	1    9600 1350
+P 9600 5350
+F 0 "D18" H 9600 5450 50  0000 C CNN
+F 1 "D" H 9600 5250 50  0000 C CNN
+F 2 "#footprint:diode_TH_SMD" H 9600 5350 50  0001 C CNN
+F 3 "" H 9600 5350 50  0001 C CNN
+	1    9600 5350
 	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push SW19
-U 1 1 5CE5B1FA
-P 9400 1200
-F 0 "SW19" H 9400 1485 50  0000 C CNN
-F 1 "SW_Push" H 9400 1394 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 9400 1400 50  0001 C CNN
-F 3 "" H 9400 1400 50  0001 C CNN
-	1    9400 1200
-	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D D19
 U 1 1 5CE5B200
-P 10650 1350
-F 0 "D19" H 10650 1450 50  0000 C CNN
-F 1 "D" H 10650 1250 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 10650 1350 50  0001 C CNN
-F 3 "" H 10650 1350 50  0001 C CNN
-	1    10650 1350
+P 10650 5350
+F 0 "D19" H 10650 5450 50  0000 C CNN
+F 1 "D" H 10650 5250 50  0000 C CNN
+F 2 "#footprint:diode_TH_SMD" H 10650 5350 50  0001 C CNN
+F 3 "" H 10650 5350 50  0001 C CNN
+	1    10650 5350
 	0    -1   -1   0   
 $EndComp
-$Comp
-L Switch:SW_Push SW20
-U 1 1 5CE5B206
-P 10450 1200
-F 0 "SW20" H 10450 1485 50  0000 C CNN
-F 1 "SW_Push" H 10450 1394 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 1400 50  0001 C CNN
-F 3 "" H 10450 1400 50  0001 C CNN
-	1    10450 1200
-	1    0    0    -1  
-$EndComp
-Text GLabel 5600 1500 0    39   Input ~ 0
-Y1
-Wire Wire Line
-	9200 1200 9200 1350
-Wire Wire Line
-	10250 1200 10250 1350
+Text GLabel 5600 5500 0    39   Input ~ 0
+Y6
 Text GLabel 6000 800  1    39   Input ~ 0
 X1
 Text GLabel 7050 800  1    39   Input ~ 0
 X2
 Text GLabel 8150 800  1    39   Input ~ 0
 X3
-Text GLabel 9200 800  1    39   Input ~ 0
+Text GLabel 9200 4800 1    39   Input ~ 0
 X4
-Text GLabel 10250 800  1    39   Input ~ 0
+Text GLabel 10250 4800 1    39   Input ~ 0
 X5
-Connection ~ 9200 1200
-Connection ~ 10250 1200
-Connection ~ 9600 1500
+Connection ~ 9600 5500
 Wire Wire Line
-	9600 1500 9800 1500
+	9600 5500 9800 5500
 $Comp
 L Mechanical:MountingHole_Pad H137
 U 1 1 5CE5B292
-P 9400 1400
-F 0 "H137" H 9500 1451 50  0000 L CNN
-F 1 "MountingHole_Pad" H 9500 1360 50  0000 L CNN
-F 2 "#footprint:1pin_conn" H 9400 1400 50  0001 C CNN
-F 3 "~" H 9400 1400 50  0001 C CNN
-	1    9400 1400
+P 9400 5400
+F 0 "H137" H 9500 5451 50  0000 L CNN
+F 1 "MountingHole_Pad" H 9500 5360 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 9400 5400 50  0001 C CNN
+F 3 "~" H 9400 5400 50  0001 C CNN
+	1    9400 5400
 	1    0    0    -1  
 $EndComp
-Connection ~ 9400 1500
+Connection ~ 9400 5500
 Wire Wire Line
-	9400 1500 9600 1500
+	9400 5500 9600 5500
 $Comp
 L Mechanical:MountingHole_Pad H138
 U 1 1 5CE5B29A
-P 9800 1400
-F 0 "H138" H 9900 1451 50  0000 L CNN
-F 1 "MountingHole_Pad" H 9900 1360 50  0000 L CNN
-F 2 "#footprint:1pin_conn" H 9800 1400 50  0001 C CNN
-F 3 "~" H 9800 1400 50  0001 C CNN
-	1    9800 1400
+P 9800 5400
+F 0 "H138" H 9900 5451 50  0000 L CNN
+F 1 "MountingHole_Pad" H 9900 5360 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 9800 5400 50  0001 C CNN
+F 3 "~" H 9800 5400 50  0001 C CNN
+	1    9800 5400
 	1    0    0    -1  
 $EndComp
-Connection ~ 9800 1500
+Connection ~ 9800 5500
 Wire Wire Line
-	9800 1500 10450 1500
+	9800 5500 10450 5500
 $Comp
 L Mechanical:MountingHole_Pad H139
 U 1 1 5CE5B2A2
-P 10450 1400
-F 0 "H139" H 10550 1451 50  0000 L CNN
-F 1 "MountingHole_Pad" H 10550 1360 50  0000 L CNN
-F 2 "#footprint:1pin_conn" H 10450 1400 50  0001 C CNN
-F 3 "~" H 10450 1400 50  0001 C CNN
-	1    10450 1400
+P 10450 5400
+F 0 "H139" H 10550 5451 50  0000 L CNN
+F 1 "MountingHole_Pad" H 10550 5360 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 10450 5400 50  0001 C CNN
+F 3 "~" H 10450 5400 50  0001 C CNN
+	1    10450 5400
 	1    0    0    -1  
 $EndComp
-Connection ~ 10450 1500
+Connection ~ 10450 5500
 Wire Wire Line
-	10450 1500 10650 1500
+	10450 5500 10650 5500
 $Comp
 L Mechanical:MountingHole_Pad H140
 U 1 1 5CE5B2AA
-P 10850 1400
-F 0 "H140" H 10950 1451 50  0000 L CNN
-F 1 "MountingHole_Pad" H 10950 1360 50  0000 L CNN
-F 2 "#footprint:1pin_conn" H 10850 1400 50  0001 C CNN
-F 3 "~" H 10850 1400 50  0001 C CNN
-	1    10850 1400
+P 10850 5400
+F 0 "H140" H 10950 5451 50  0000 L CNN
+F 1 "MountingHole_Pad" H 10950 5360 50  0000 L CNN
+F 2 "#footprint:1pin_conn" H 10850 5400 50  0001 C CNN
+F 3 "~" H 10850 5400 50  0001 C CNN
+	1    10850 5400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H133
 U 1 1 5CE5B2B0
-P 9100 1050
-F 0 "H133" V 9337 1055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9246 1055 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 9100 1050 50  0001 C CNN
-F 3 "~" H 9100 1050 50  0001 C CNN
-	1    9100 1050
+P 9100 5050
+F 0 "H133" V 9337 5055 50  0000 C CNN
+F 1 "MountingHole_Pad" V 9246 5055 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 9100 5050 50  0001 C CNN
+F 3 "~" H 9100 5050 50  0001 C CNN
+	1    9100 5050
 	0    -1   -1   0   
 $EndComp
-Connection ~ 9200 1050
-Wire Wire Line
-	9200 1050 9200 1200
+Connection ~ 9200 5050
 $Comp
 L Mechanical:MountingHole_Pad H135
 U 1 1 5CE5B2B8
-P 9100 1350
-F 0 "H135" V 9337 1355 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9246 1355 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 9100 1350 50  0001 C CNN
-F 3 "~" H 9100 1350 50  0001 C CNN
-	1    9100 1350
+P 9100 5350
+F 0 "H135" V 9337 5355 50  0000 C CNN
+F 1 "MountingHole_Pad" V 9246 5355 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 9100 5350 50  0001 C CNN
+F 3 "~" H 9100 5350 50  0001 C CNN
+	1    9100 5350
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	9200 1350 9200 1650
+	9200 5350 9200 5650
 $Comp
 L Mechanical:MountingHole_Pad H134
 U 1 1 5CE5B2BF
-P 10150 1050
-F 0 "H134" V 10387 1055 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10296 1055 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 10150 1050 50  0001 C CNN
-F 3 "~" H 10150 1050 50  0001 C CNN
-	1    10150 1050
+P 10150 5050
+F 0 "H134" V 10387 5055 50  0000 C CNN
+F 1 "MountingHole_Pad" V 10296 5055 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 10150 5050 50  0001 C CNN
+F 3 "~" H 10150 5050 50  0001 C CNN
+	1    10150 5050
 	0    -1   -1   0   
 $EndComp
-Connection ~ 10250 1050
-Wire Wire Line
-	10250 1050 10250 1200
+Connection ~ 10250 5050
 $Comp
 L Mechanical:MountingHole_Pad H136
 U 1 1 5CE5B2C7
-P 10150 1350
-F 0 "H136" V 10387 1355 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10296 1355 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 10150 1350 50  0001 C CNN
-F 3 "~" H 10150 1350 50  0001 C CNN
-	1    10150 1350
+P 10150 5350
+F 0 "H136" V 10387 5355 50  0000 C CNN
+F 1 "MountingHole_Pad" V 10296 5355 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 10150 5350 50  0001 C CNN
+F 3 "~" H 10150 5350 50  0001 C CNN
+	1    10150 5350
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	10250 1350 10250 1650
+	10250 5350 10250 5650
 Wire Wire Line
-	10650 1500 10850 1500
-Connection ~ 10650 1500
-Connection ~ 9200 1350
-Connection ~ 10250 1350
+	10650 5500 10850 5500
+Connection ~ 10650 5500
+Connection ~ 9200 5350
+Connection ~ 10250 5350
 Connection ~ 6000 1650
 Connection ~ 7050 1650
 Connection ~ 8150 1650
-Connection ~ 9200 1650
-Connection ~ 10250 1650
 $Comp
 L power:GND #PWR0106
 U 1 1 5CE5189D
@@ -2064,7 +2030,7 @@ Wire Wire Line
 Connection ~ 1550 1800
 Wire Wire Line
 	1550 1800 1650 1800
-Text GLabel 5700 4450 2    50   Input ~ 0
+Text GLabel 5700 4750 2    50   Input ~ 0
 reset2
 Wire Wire Line
 	4050 1500 3450 1500
@@ -2172,11 +2138,11 @@ Wire Wire Line
 Wire Wire Line
 	5600 2100 6200 2100
 Wire Wire Line
-	5600 1500 9400 1500
+	5600 5500 9400 5500
 Wire Wire Line
-	10250 800  10250 1050
+	10250 4800 10250 5050
 Wire Wire Line
-	9200 800  9200 1050
+	9200 4800 9200 5050
 Wire Wire Line
 	8150 800  8150 1650
 Wire Wire Line
@@ -2211,4 +2177,158 @@ $EndComp
 Connection ~ 7150 3900
 Wire Wire Line
 	7150 3900 7250 3900
+Wire Wire Line
+	9200 5050 9200 5200
+Wire Wire Line
+	10250 5050 10250 5200
+$Comp
+L Device:Rotary_Encoder_Switch SW19
+U 1 1 5D659111
+P 9500 4900
+F 0 "SW19" V 9454 4670 50  0000 R CNN
+F 1 "Rotary_Encoder_Switch" V 9545 4670 50  0000 R CNN
+F 2 "#footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_rev2" H 9350 5060 50  0001 C CNN
+F 3 "~" H 9500 5160 50  0001 C CNN
+	1    9500 4900
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch SW20
+U 1 1 5D6595AB
+P 10550 4900
+F 0 "SW20" V 10504 4670 50  0000 R CNN
+F 1 "Rotary_Encoder_Switch" V 10595 4670 50  0000 R CNN
+F 2 "#footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_rev2" H 10400 5060 50  0001 C CNN
+F 3 "~" H 10550 5160 50  0001 C CNN
+	1    10550 4900
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	9400 5200 9200 5200
+Connection ~ 9200 5200
+Wire Wire Line
+	9200 5200 9200 5350
+Wire Wire Line
+	10450 5200 10250 5200
+Connection ~ 10250 5200
+Wire Wire Line
+	10250 5200 10250 5350
+Text GLabel 9500 4300 1    50   Input ~ 0
+GND
+Text GLabel 10550 4300 1    50   Input ~ 0
+GND
+Text GLabel 9200 800  1    39   Input ~ 0
+X4
+Text GLabel 10250 800  1    39   Input ~ 0
+X5
+Wire Wire Line
+	10250 800  10250 1650
+Connection ~ 10250 1650
+Wire Wire Line
+	9200 800  9200 1650
+Connection ~ 9200 1650
+Text GLabel 9400 4300 1    50   Input ~ 0
+X7
+Text GLabel 9600 4300 1    50   Input ~ 0
+X8
+Text GLabel 10450 4300 1    50   Input ~ 0
+X9
+Text GLabel 10650 4300 1    50   Input ~ 0
+X10
+$Comp
+L Mechanical:MountingHole_Pad H51
+U 1 1 5D672636
+P 9300 4450
+F 0 "H51" V 9537 4455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 9446 4455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 9300 4450 50  0001 C CNN
+F 3 "~" H 9300 4450 50  0001 C CNN
+	1    9300 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H52
+U 1 1 5D67276C
+P 9400 4450
+F 0 "H52" V 9637 4455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 9546 4455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 9400 4450 50  0001 C CNN
+F 3 "~" H 9400 4450 50  0001 C CNN
+	1    9400 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H53
+U 1 1 5D672890
+P 9500 4450
+F 0 "H53" V 9737 4455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 9646 4455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 9500 4450 50  0001 C CNN
+F 3 "~" H 9500 4450 50  0001 C CNN
+	1    9500 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H54
+U 1 1 5D672A90
+P 10350 4450
+F 0 "H54" V 10587 4455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 10496 4455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 10350 4450 50  0001 C CNN
+F 3 "~" H 10350 4450 50  0001 C CNN
+	1    10350 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H55
+U 1 1 5D672A96
+P 10450 4450
+F 0 "H55" V 10687 4455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 10596 4455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 10450 4450 50  0001 C CNN
+F 3 "~" H 10450 4450 50  0001 C CNN
+	1    10450 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H56
+U 1 1 5D672A9C
+P 10550 4450
+F 0 "H56" V 10787 4455 50  0000 C CNN
+F 1 "MountingHole_Pad" V 10696 4455 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 10550 4450 50  0001 C CNN
+F 3 "~" H 10550 4450 50  0001 C CNN
+	1    10550 4450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9400 4300 9400 4450
+Connection ~ 9400 4450
+Wire Wire Line
+	9400 4450 9400 4600
+Wire Wire Line
+	9500 4300 9500 4450
+Connection ~ 9500 4450
+Wire Wire Line
+	9500 4450 9500 4600
+Wire Wire Line
+	9600 4300 9600 4450
+Connection ~ 9600 4450
+Wire Wire Line
+	9600 4450 9600 4600
+Wire Wire Line
+	10450 4300 10450 4450
+Connection ~ 10450 4450
+Wire Wire Line
+	10450 4450 10450 4600
+Wire Wire Line
+	10550 4300 10550 4450
+Connection ~ 10550 4450
+Wire Wire Line
+	10550 4450 10550 4600
+Wire Wire Line
+	10650 4300 10650 4450
+Connection ~ 10650 4450
+Wire Wire Line
+	10650 4450 10650 4600
 $EndSCHEMATC
