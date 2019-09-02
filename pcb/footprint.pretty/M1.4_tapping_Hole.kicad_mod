@@ -1,14 +1,14 @@
-(module M1.4_tapping_Hole (layer F.Cu) (tedit 5CF3B838)
+(module M1.4_tapping_Hole (layer F.Cu) (tedit 5D6BD86E)
   (descr "Resitance 3 pas")
   (tags R)
   (autoplace_cost180 10)
-  (fp_text reference H197 (at 0 1.651) (layer F.Fab) hide
+  (fp_text reference "" (at 0 1.651) (layer F.Fab) hide
     (effects (font (size 0.8128 0.8128) (thickness 0.15)))
   )
-  (fp_text value MountingHole (at 0 -1.4605) (layer F.Fab) hide
+  (fp_text value "" (at 0 -1.4605) (layer F.Fab) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (pad "" np_thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1.27) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 1.26 1.26) (drill 1.26) (layers *.Cu *.Mask))
   (model discret/resistor.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3 0.3 0.3))
