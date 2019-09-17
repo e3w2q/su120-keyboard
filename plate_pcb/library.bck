@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RPi_GPIO
+D Raspberry Pi Hat GPIO
+K RPi Raspberry Pi GPIO
+$ENDCMP
+#
+#End Doc Library
