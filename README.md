@@ -26,9 +26,9 @@ I made it open source so that anyone interested in keyboard could try the keyboa
 
 ## Example
 
-### 17 key keypad
+### 15 key 2 knob keypad
 
-![sasami17](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/image/sasami17.jpg?raw=true)
+![sasami17](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/image/sasami17-4.jpg?raw=true)
 
 [ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
 
