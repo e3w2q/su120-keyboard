@@ -1,0 +1,23 @@
+(module M3 (layer F.Cu) (tedit 5D08D1E7)
+  (descr "Resitance 3 pas")
+  (tags R)
+  (autoplace_cost180 10)
+  (fp_text reference "" (at 0 1.651) (layer F.Fab) hide
+    (effects (font (size 0.8128 0.8128) (thickness 0.15)))
+  )
+  (fp_text value "" (at 0 -1.4605) (layer F.Fab) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_circle (center 0 0) (end 2.75 0) (layer F.Fab) (width 0.15))
+  (pad "" thru_hole circle (at 0 0) (size 3.6 3.6) (drill 3.2) (layers *.Cu *.Mask))
+  (model discret/resistor.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3 0.3 0.3))
+    (rotate (xyz 0 0 0))
+  )
+  (model Resistors_ThroughHole.3dshapes/Resistor_Horizontal_RM10mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.2 0.2 0.2))
+    (rotate (xyz 0 0 0))
+  )
+)
