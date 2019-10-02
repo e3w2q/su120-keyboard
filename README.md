@@ -1,6 +1,6 @@
 # SU120
 
-An assemblable keyboard board with up to 120 key.
+Expandable keyboard with up to 120 keys.
 ![main image](https://github.com/e3w2q/su120-keyboard-doc/blob/master/mainimage.jpg?raw=true)
 ![pcb2](https://github.com/e3w2q/su120-keyboard-doc/blob/master/pcb2.jpg?raw=true)
 ![pcb3](https://github.com/e3w2q/su120-keyboard-doc/blob/master/pcb3.jpg?raw=true)
@@ -23,6 +23,8 @@ I made it open source so that anyone interested in keyboard could try the keyboa
 [PCB Order Guide](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide.md) / [PCBの入手方法](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide_jp.md)
 
 [Firmware](https://github.com/e3w2q/qmk_firmware/tree/su120/keyboards/handwired/su120)
+
+[Plate data (PCB)](/plate-pcb/)
 
 ## Example
 

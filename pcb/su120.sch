@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "SU120 Yakitori Keyboard"
 Date ""
-Rev "6"
+Rev "7"
 Comp "@e3w2q"
 Comment1 ""
 Comment2 ""

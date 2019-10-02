@@ -2227,13 +2227,13 @@ Connection ~ 10250 1650
 Wire Wire Line
 	9200 800  9200 1650
 Connection ~ 9200 1650
-Text GLabel 9400 4300 1    50   Input ~ 0
-X7
-Text GLabel 9600 4300 1    50   Input ~ 0
-X8
-Text GLabel 10450 4300 1    50   Input ~ 0
-X9
 Text GLabel 10650 4300 1    50   Input ~ 0
+X7
+Text GLabel 10450 4300 1    50   Input ~ 0
+X8
+Text GLabel 9600 4300 1    50   Input ~ 0
+X9
+Text GLabel 9400 4300 1    50   Input ~ 0
 X10
 $Comp
 L Mechanical:MountingHole_Pad H51
