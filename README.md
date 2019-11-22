@@ -42,26 +42,26 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/image/sasami17-4.jpg?raw=true" width="50%">
 
-[Build guide & BOM](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme.md) / [ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
+[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
 
 ### 3x10 Ortholinear Keyboard
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/image/sasami30.jpg?raw=true" width="50%">
 
-[Build guide & BOM](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/readme.md) / [ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/readme_jp.md)
+[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/readme_jp.md)
 
-### 55% Split Ortholinear Keyboard by ryuichio
+### 55% Split Ortholinear Keyboard by [ryuichio](https://twitter.com/ryuichio1)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">両手分できた！ファーム焼いてチェックも済 <a href="https://t.co/cdwkGZ0oJt">pic.twitter.com/cdwkGZ0oJt</a></p>&mdash; ryuichio (@ryuichio1) <a href="https://twitter.com/ryuichio1/status/1186321210180718592?ref_src=twsrc%5Etfw">October 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/ryuichio1/status/1186321210180718592"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1186321210180718592.jpg?raw=true" width="100%"></a>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/SU120?src=hash&amp;ref_src=twsrc%5Etfw">#SU120</a> で55%（？）キーボード作ってみました。PCBのみは1回やってみたかったのですが、思ったより悪くない（精神衛生上以外は）。そしてUSBコネクタの位置はやっぱり邪魔くさかったので要改善。 <a href="https://t.co/0baJHFjIMv">pic.twitter.com/0baJHFjIMv</a></p>&mdash; ryuichio (@ryuichio1) <a href="https://twitter.com/ryuichio1/status/1186655304051613697?ref_src=twsrc%5Etfw">October 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/ryuichio1/status/1186655304051613697"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1186655304051613697.jpg?raw=true" width="100%"></a>
 
-### 18 Key 2 Knob Low-profile Keypad by 🐰
+### 18 Key 2 Knob Low-profile Keypad by [🐰](https://twitter.com/illness072)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あとchocの2uも買った。やっぱ2uの位置は2uのキーキャップだな。しっくりくる。まあこれテンキーなんだけど <a href="https://t.co/21Sespo21R">pic.twitter.com/21Sespo21R</a></p>&mdash; 🐰 (@illness072) <a href="https://twitter.com/illness072/status/1191222676078989312?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/illness072/status/1191222676078989312"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1191222676078989312.jpg?raw=true" width="100%"></a>
 
-### [ELEPHANT42](https://twitter.com/hashtag/elephant42?src=hash) Prototype by 🐰
+### [ELEPHANT42](https://twitter.com/hashtag/elephant42?src=hash) Prototype by [🐰](https://twitter.com/illness072)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">両手ぶんねじ止め完了。プロマイクロ部までふくめたケース出力もはじめた。あとはケース底部デザインと実際の配線だな。うんうん先は長いぞっと <a href="https://t.co/LJgvUClfq1">pic.twitter.com/LJgvUClfq1</a></p>&mdash; 🐰 (@illness072) <a href="https://twitter.com/illness072/status/1190906588057333761?ref_src=twsrc%5Etfw">November 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/illness072/status/1190906588057333761"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1190906588057333761.jpg?raw=true" width="100%"></a>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/elephant42?src=hash&amp;ref_src=twsrc%5Etfw">#elephant42</a> ケースrev.6。開口部の位置と厚さを調整。またケースなしでサンドイッチマウントもできるようにした。ケース設計はとりあえずこれでFIXとして、このサイズと各種位置関係から基板設計をやっていこうかな。 <a href="https://t.co/89nmag6hjA">pic.twitter.com/89nmag6hjA</a></p>&mdash; 🐰 (@illness072) <a href="https://twitter.com/illness072/status/1192222524324511745?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/illness072/status/1192222524324511745"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1192222524324511745.jpg?raw=true" width="100%"></a>
