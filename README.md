@@ -34,7 +34,7 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 [Firmware](https://github.com/e3w2q/qmk_firmware/tree/su120/keyboards/handwired/su120)
 
-[How to create a custom layout](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/index.md) / [自由なレイアウトを作成するには](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/index_jp.md)
+[How to create a custom layout](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/readme.md) / [自由なレイアウトを作成するには](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/readme_jp.md)
 
 ## Example
 
@@ -44,11 +44,17 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 [ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
 
-### 3x10 Ortholinear Keyboard
+### 30 Key Ortholinear Keyboard
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/image/sasami30.jpg?raw=true" width="50%">
 
 [ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/readme_jp.md)
+
+### 120 Key Split Ortholinear Keyboard 
+
+<img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo120/image/momo120.jpg?raw=true" width="50%">
+
+[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo120/readme_jp.md)
 
 ### 55% Split Ortholinear Keyboard by [ryuichio](https://twitter.com/ryuichio1)
 
