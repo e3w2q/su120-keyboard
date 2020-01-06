@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "SU120 Yakitori Keyboard"
 Date ""
-Rev "7"
+Rev "8"
 Comp "@e3w2q"
 Comment1 ""
 Comment2 ""
@@ -20,7 +20,7 @@ U 1 1 5B465AE7
 P 6400 1950
 F 0 "D1" H 6400 2050 50  0000 C CNN
 F 1 "D" H 6400 1850 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 6400 1950 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 6400 1950 50  0001 C CNN
 F 3 "" H 6400 1950 50  0001 C CNN
 	1    6400 1950
 	0    -1   -1   0   
@@ -31,7 +31,7 @@ U 1 1 5B4657D8
 P 7450 1950
 F 0 "D2" H 7450 2050 50  0000 C CNN
 F 1 "D" H 7450 1850 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 7450 1950 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 7450 1950 50  0001 C CNN
 F 3 "" H 7450 1950 50  0001 C CNN
 	1    7450 1950
 	0    -1   -1   0   
@@ -42,7 +42,7 @@ U 1 1 5B465834
 P 8550 1950
 F 0 "D3" H 8550 2050 50  0000 C CNN
 F 1 "D" H 8550 1850 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 8550 1950 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 8550 1950 50  0001 C CNN
 F 3 "" H 8550 1950 50  0001 C CNN
 	1    8550 1950
 	0    -1   -1   0   
@@ -53,7 +53,7 @@ U 1 1 5B465930
 P 9600 1950
 F 0 "D4" H 9600 2050 50  0000 C CNN
 F 1 "D" H 9600 1850 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 9600 1950 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 9600 1950 50  0001 C CNN
 F 3 "" H 9600 1950 50  0001 C CNN
 	1    9600 1950
 	0    -1   -1   0   
@@ -64,7 +64,7 @@ U 1 1 5B465C74
 P 6400 2550
 F 0 "D6" H 6400 2650 50  0000 C CNN
 F 1 "D" H 6400 2450 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 6400 2550 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 6400 2550 50  0001 C CNN
 F 3 "" H 6400 2550 50  0001 C CNN
 	1    6400 2550
 	0    -1   -1   0   
@@ -75,7 +75,7 @@ U 1 1 5B465C80
 P 7450 2550
 F 0 "D7" H 7450 2650 50  0000 C CNN
 F 1 "D" H 7450 2450 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 7450 2550 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 7450 2550 50  0001 C CNN
 F 3 "" H 7450 2550 50  0001 C CNN
 	1    7450 2550
 	0    -1   -1   0   
@@ -86,7 +86,7 @@ U 1 1 5B465C8C
 P 8550 2550
 F 0 "D8" H 8550 2650 50  0000 C CNN
 F 1 "D" H 8550 2450 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 8550 2550 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 8550 2550 50  0001 C CNN
 F 3 "" H 8550 2550 50  0001 C CNN
 	1    8550 2550
 	0    -1   -1   0   
@@ -97,7 +97,7 @@ U 1 1 5B465C98
 P 9600 2550
 F 0 "D9" H 9600 2650 50  0000 C CNN
 F 1 "D" H 9600 2450 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 9600 2550 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 9600 2550 50  0001 C CNN
 F 3 "" H 9600 2550 50  0001 C CNN
 	1    9600 2550
 	0    -1   -1   0   
@@ -200,7 +200,7 @@ U 1 1 5C485046
 P 10650 1950
 F 0 "D5" H 10650 2050 50  0000 C CNN
 F 1 "D" H 10650 1850 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 10650 1950 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 10650 1950 50  0001 C CNN
 F 3 "" H 10650 1950 50  0001 C CNN
 	1    10650 1950
 	0    -1   -1   0   
@@ -211,7 +211,7 @@ U 1 1 5C48504D
 P 10650 2550
 F 0 "D10" H 10650 2650 50  0000 C CNN
 F 1 "D" H 10650 2450 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 10650 2550 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 10650 2550 50  0001 C CNN
 F 3 "" H 10650 2550 50  0001 C CNN
 	1    10650 2550
 	0    -1   -1   0   
@@ -833,7 +833,7 @@ U 1 1 5C71DC1E
 P 7450 3750
 F 0 "D16" H 7450 3850 50  0000 C CNN
 F 1 "D" H 7450 3650 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 7450 3750 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 7450 3750 50  0001 C CNN
 F 3 "" H 7450 3750 50  0001 C CNN
 	1    7450 3750
 	0    -1   -1   0   
@@ -844,7 +844,7 @@ U 1 1 5C71DC2A
 P 9600 3750
 F 0 "D17" H 9600 3850 50  0000 C CNN
 F 1 "D" H 9600 3650 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 9600 3750 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 9600 3750 50  0001 C CNN
 F 3 "" H 9600 3750 50  0001 C CNN
 	1    9600 3750
 	0    -1   -1   0   
@@ -1231,7 +1231,7 @@ U 1 1 5CE4CCBF
 P 6400 3150
 F 0 "D11" H 6400 3250 50  0000 C CNN
 F 1 "D" H 6400 3050 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 6400 3150 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 6400 3150 50  0001 C CNN
 F 3 "" H 6400 3150 50  0001 C CNN
 	1    6400 3150
 	0    -1   -1   0   
@@ -1242,7 +1242,7 @@ U 1 1 5CE4CCC5
 P 7450 3150
 F 0 "D12" H 7450 3250 50  0000 C CNN
 F 1 "D" H 7450 3050 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 7450 3150 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 7450 3150 50  0001 C CNN
 F 3 "" H 7450 3150 50  0001 C CNN
 	1    7450 3150
 	0    -1   -1   0   
@@ -1253,7 +1253,7 @@ U 1 1 5CE4CCCB
 P 8550 3150
 F 0 "D13" H 8550 3250 50  0000 C CNN
 F 1 "D" H 8550 3050 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 8550 3150 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 8550 3150 50  0001 C CNN
 F 3 "" H 8550 3150 50  0001 C CNN
 	1    8550 3150
 	0    -1   -1   0   
@@ -1264,7 +1264,7 @@ U 1 1 5CE4CCD1
 P 9600 3150
 F 0 "D14" H 9600 3250 50  0000 C CNN
 F 1 "D" H 9600 3050 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 9600 3150 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 9600 3150 50  0001 C CNN
 F 3 "" H 9600 3150 50  0001 C CNN
 	1    9600 3150
 	0    -1   -1   0   
@@ -1321,7 +1321,7 @@ U 1 1 5CE4CCF0
 P 10650 3150
 F 0 "D15" H 10650 3250 50  0000 C CNN
 F 1 "D" H 10650 3050 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 10650 3150 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 10650 3150 50  0001 C CNN
 F 3 "" H 10650 3150 50  0001 C CNN
 	1    10650 3150
 	0    -1   -1   0   
@@ -1651,7 +1651,7 @@ U 1 1 5CE5B1E1
 P 9600 5350
 F 0 "D18" H 9600 5450 50  0000 C CNN
 F 1 "D" H 9600 5250 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 9600 5350 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 9600 5350 50  0001 C CNN
 F 3 "" H 9600 5350 50  0001 C CNN
 	1    9600 5350
 	0    -1   -1   0   
@@ -1662,7 +1662,7 @@ U 1 1 5CE5B200
 P 10650 5350
 F 0 "D19" H 10650 5450 50  0000 C CNN
 F 1 "D" H 10650 5250 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 10650 5350 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 10650 5350 50  0001 C CNN
 F 3 "" H 10650 5350 50  0001 C CNN
 	1    10650 5350
 	0    -1   -1   0   
@@ -2052,7 +2052,7 @@ U 1 1 5D04CD16
 P 10650 3750
 F 0 "D20" H 10650 3850 50  0000 C CNN
 F 1 "D" H 10650 3650 50  0000 C CNN
-F 2 "#footprint:diode_TH_SMD" H 10650 3750 50  0001 C CNN
+F 2 "#footprint:diode_TH_SMD_rev2" H 10650 3750 50  0001 C CNN
 F 3 "" H 10650 3750 50  0001 C CNN
 	1    10650 3750
 	0    -1   -1   0   
@@ -2063,7 +2063,7 @@ U 1 1 5D04CD1C
 P 10450 3600
 F 0 "SW21" H 10450 3885 50  0000 C CNN
 F 1 "SW_Push" H 10450 3794 50  0000 C CNN
-F 2 "#footprint:CherryMX_Choc_Hotswap_rev4" H 10450 3800 50  0001 C CNN
+F 2 "#footprint:CherryMX_MidHeight_Choc_Hotswap_rev5" H 10450 3800 50  0001 C CNN
 F 3 "" H 10450 3800 50  0001 C CNN
 	1    10450 3600
 	1    0    0    -1  
@@ -2236,99 +2236,80 @@ X9
 Text GLabel 9400 4300 1    50   Input ~ 0
 X10
 $Comp
-L Mechanical:MountingHole_Pad H51
-U 1 1 5D672636
-P 9300 4450
-F 0 "H51" V 9537 4455 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9446 4455 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 9300 4450 50  0001 C CNN
-F 3 "~" H 9300 4450 50  0001 C CNN
-	1    9300 4450
-	0    -1   -1   0   
+L Mechanical:MountingHole_Pad H57
+U 1 1 5E0F561B
+P 1700 2600
+F 0 "H57" V 1937 2605 50  0000 C CNN
+F 1 "MountingHole_Pad" V 1846 2605 50  0000 C CNN
+F 2 "#footprint:1pin_conn" H 1700 2600 50  0001 C CNN
+F 3 "~" H 1700 2600 50  0001 C CNN
+	1    1700 2600
+	0    1    -1   0   
+$EndComp
+Text GLabel 1600 2600 0    50   Input ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_02x05_Odd_Even J8
+U 1 1 5E124F08
+P 10050 4450
+F 0 "J8" H 10100 4867 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 10100 4776 50  0000 C CNN
+F 2 "#footprint:IDC-Header_2x05_P2.54mm_Vertical" H 10050 4450 50  0001 C CNN
+F 3 "~" H 10050 4450 50  0001 C CNN
+	1    10050 4450
+	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H52
-U 1 1 5D67276C
-P 9400 4450
-F 0 "H52" V 9637 4455 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9546 4455 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 9400 4450 50  0001 C CNN
-F 3 "~" H 9400 4450 50  0001 C CNN
-	1    9400 4450
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H53
-U 1 1 5D672890
-P 9500 4450
-F 0 "H53" V 9737 4455 50  0000 C CNN
-F 1 "MountingHole_Pad" V 9646 4455 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 9500 4450 50  0001 C CNN
-F 3 "~" H 9500 4450 50  0001 C CNN
-	1    9500 4450
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H54
-U 1 1 5D672A90
-P 10350 4450
-F 0 "H54" V 10587 4455 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10496 4455 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 10350 4450 50  0001 C CNN
-F 3 "~" H 10350 4450 50  0001 C CNN
-	1    10350 4450
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H55
-U 1 1 5D672A96
-P 10450 4450
-F 0 "H55" V 10687 4455 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10596 4455 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 10450 4450 50  0001 C CNN
-F 3 "~" H 10450 4450 50  0001 C CNN
-	1    10450 4450
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H56
-U 1 1 5D672A9C
-P 10550 4450
-F 0 "H56" V 10787 4455 50  0000 C CNN
-F 1 "MountingHole_Pad" V 10696 4455 50  0000 C CNN
-F 2 "#footprint:1pin_conn" H 10550 4450 50  0001 C CNN
-F 3 "~" H 10550 4450 50  0001 C CNN
-	1    10550 4450
-	0    -1   -1   0   
+L Connector_Generic:Conn_02x05_Odd_Even J7
+U 1 1 5E113B23
+P 9000 4450
+F 0 "J7" H 9050 4867 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 9050 4776 50  0000 C CNN
+F 2 "#footprint:IDC-Header_2x05_P2.54mm_Vertical" H 9000 4450 50  0001 C CNN
+F 3 "~" H 9000 4450 50  0001 C CNN
+	1    9000 4450
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9400 4300 9400 4450
-Connection ~ 9400 4450
-Wire Wire Line
-	9400 4450 9400 4600
+	9400 4300 9400 4550
 Wire Wire Line
 	9500 4300 9500 4450
+Wire Wire Line
+	9600 4300 9600 4350
+Wire Wire Line
+	10450 4300 10450 4550
+Wire Wire Line
+	10550 4300 10550 4450
+Wire Wire Line
+	10650 4300 10650 4350
+Wire Wire Line
+	9300 4350 9600 4350
+Connection ~ 9600 4350
+Wire Wire Line
+	9600 4350 9600 4600
+Wire Wire Line
+	9300 4450 9500 4450
 Connection ~ 9500 4450
 Wire Wire Line
 	9500 4450 9500 4600
 Wire Wire Line
-	9600 4300 9600 4450
-Connection ~ 9600 4450
+	9300 4550 9400 4550
+Connection ~ 9400 4550
 Wire Wire Line
-	9600 4450 9600 4600
+	9400 4550 9400 4600
 Wire Wire Line
-	10450 4300 10450 4450
-Connection ~ 10450 4450
+	10350 4350 10650 4350
+Connection ~ 10650 4350
 Wire Wire Line
-	10450 4450 10450 4600
+	10650 4350 10650 4600
 Wire Wire Line
-	10550 4300 10550 4450
+	10350 4450 10550 4450
 Connection ~ 10550 4450
 Wire Wire Line
 	10550 4450 10550 4600
 Wire Wire Line
-	10650 4300 10650 4450
-Connection ~ 10650 4450
+	10350 4550 10450 4550
+Connection ~ 10450 4550
 Wire Wire Line
-	10650 4450 10650 4600
+	10450 4550 10450 4600
 $EndSCHEMATC
