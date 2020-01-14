@@ -1,6 +1,6 @@
 # SU120
 
-[![PCB Revision](https://img.shields.io/badge/PCB%20Revision-7-blue.svg)](https://github.com/e3w2q/su120-keyboard/tree/master/pcb)
+[![PCB Revision](https://img.shields.io/badge/PCB%20Revision-8-blue.svg)](https://github.com/e3w2q/su120-keyboard/tree/master/pcb)
 [![Plate Revision](https://img.shields.io/badge/Plate%20Revision-2-blue.svg)](https://github.com/e3w2q/su120-keyboard/tree/master/plate-pcb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
