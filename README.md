@@ -1,4 +1,4 @@
-# SU120
+# ![SU120](https://github.com/e3w2q/su120-keyboard-doc/blob/master/logo.png?raw=true)
 
 [![PCB Revision](https://img.shields.io/badge/PCB%20Revision-8-blue.svg)](https://github.com/e3w2q/su120-keyboard/tree/master/pcb)
 [![Plate Revision](https://img.shields.io/badge/Plate%20Revision-2-blue.svg)](https://github.com/e3w2q/su120-keyboard/tree/master/plate-pcb)
@@ -62,16 +62,22 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 ### 55% Split Ortholinear Keyboard by [ryuichio](https://twitter.com/ryuichio1)
 
-<a href="https://twitter.com/ryuichio1/status/1186321210180718592"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1186321210180718592.jpg?raw=true" width="100%"></a>
+<a href="https://twitter.com/ryuichio1/status/1186321210180718592"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1186321210180718592.jpg?raw=true" width="50%"></a>
 
-<a href="https://twitter.com/ryuichio1/status/1186655304051613697"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1186655304051613697.jpg?raw=true" width="100%"></a>
-
-### 18 Key 2 Knob Low-profile Keypad by [🐰](https://twitter.com/illness072)
-
-<a href="https://twitter.com/illness072/status/1191222676078989312"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1191222676078989312.jpg?raw=true" width="100%"></a>
+<a href="https://twitter.com/ryuichio1/status/1186655304051613697"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1186655304051613697.jpg?raw=true" width="50%"></a>
 
 ### [ELEPHANT42](https://twitter.com/hashtag/elephant42?src=hash) Prototype by [🐰](https://twitter.com/illness072)
 
-<a href="https://twitter.com/illness072/status/1190906588057333761"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1190906588057333761.jpg?raw=true" width="100%"></a>
+<a href="https://twitter.com/illness072/status/1190906588057333761"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1190906588057333761.jpg?raw=true" width="50%"></a>
 
-<a href="https://twitter.com/illness072/status/1192222524324511745"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1192222524324511745.jpg?raw=true" width="100%"></a>
+<a href="https://twitter.com/illness072/status/1192222524324511745"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1192222524324511745.jpg?raw=true" width="50%"></a>
+
+### Pigeon44 by [🐰](https://twitter.com/illness072)
+
+<a href="https://twitter.com/illness072/status/1196688512197677059"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1196688512197677059.jpg?raw=true" width="50%"></a>
+
+<a href="https://twitter.com/illness072/status/1200561895721205761"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1200561895721205761.jpg?raw=true" width="50%"></a>
+
+### 18 Key 2 Knob Low-profile Keypad by [🐰](https://twitter.com/illness072)
+
+<a href="https://twitter.com/illness072/status/1191222676078989312"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1191222676078989312.jpg?raw=true" width="50%"></a>
