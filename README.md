@@ -4,9 +4,8 @@
 [![Plate Revision](https://img.shields.io/badge/Plate%20Revision-2-blue.svg)](https://github.com/e3w2q/su120-keyboard/tree/master/plate-pcb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-Expandable keyboard with up to 120 keys.
+Expandable keyboard PCB with up to 120 keys.
 ![main image](https://github.com/e3w2q/su120-keyboard-doc/blob/master/mainimage.jpg?raw=true)
-![pcb3](https://github.com/e3w2q/su120-keyboard-doc/blob/master/pcb3.jpg?raw=true)
 
 ## What is the SU120?
 
@@ -38,9 +37,9 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 ## Example
 
-### 15 Key 2 Knob Keypad
+### 15 Key (+2 Knob) Keypad
 
-<img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/image/sasami17-4.jpg?raw=true" width="50%">
+<img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/image/sasami17-3.jpg?raw=true" width="50%">
 
 [ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
 
@@ -56,9 +55,17 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 [ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo120/readme_jp.md)
 
+### 40% Column-Staggered Keyboard
+
+<img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/negima43/image/negima43.jpg?raw=true" width="50%">
+
+[Photos / ギャラリー](https://github.com/e3w2q/su120-keyboard-doc/blob/master/negima43/readme.md)
+
 ### 5% Keyboard
 
-<img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/negima5/image/negima5_3in1.jpg?raw=true" width="50%">
+<img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/negima5/image/negima5.jpg?raw=true" width="50%">
+
+[Photos / ギャラリー](https://github.com/e3w2q/su120-keyboard-doc/blob/master/negima5/readme.md)
 
 ### 55% Split Ortholinear Keyboard by [ryuichio](https://twitter.com/ryuichio1)
 
