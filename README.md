@@ -67,6 +67,12 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 [Photos / ギャラリー](https://github.com/e3w2q/su120-keyboard-doc/blob/master/negima5/readme.md)
 
+### Badge and Clip
+
+<img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/badge_and_clip/image/badge_and_clip.jpg?raw=true" width="50%">
+
+[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/badge_and_clip/readme_jp.md)
+
 ### 55% Split Ortholinear Keyboard by [ryuichio](https://twitter.com/ryuichio1)
 
 <a href="https://twitter.com/ryuichio1/status/1186321210180718592"><img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/twitter/1186321210180718592.jpg?raw=true" width="50%"></a>
