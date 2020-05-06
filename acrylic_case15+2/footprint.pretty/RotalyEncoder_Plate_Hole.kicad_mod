@@ -1,0 +1,16 @@
+(module RotalyEncoder_Plate_Hole (layer F.Cu) (tedit 5E63AE02)
+  (fp_text reference "" (at 7 8.1) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "" (at -7.4 -8.1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -6.25 -6.5) (end -6.25 6.5) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 6.25 6.5) (end -6.25 6.5) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 6.25 -6.5) (end -6.25 -6.5) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
+  (fp_line (start 9.5 9.5) (end -9.5 9.5) (layer F.Fab) (width 0.15))
+  (fp_line (start 6.25 -6.5) (end 6.25 6.5) (layer Edge.Cuts) (width 0.15))
+)
