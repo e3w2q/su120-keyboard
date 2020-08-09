@@ -31,7 +31,7 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 [PCB Order Guide](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide.md) / [PCBの入手方法](https://github.com/e3w2q/su120-keyboard-doc/blob/master/common/pcb_order_guide_jp.md)
 
-[Firmware](https://github.com/e3w2q/qmk_firmware/tree/su120/keyboards/handwired/su120)
+[Firmware](https://github.com/e3w2q/qmk_firmware/tree/e3w2q/keyboards/e3w2q/su120)
 
 [How to create a custom layout](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/readme.md) / [自由なレイアウトを作成するには](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/readme_jp.md)
 
