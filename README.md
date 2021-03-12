@@ -15,7 +15,7 @@ I use JIS Kana input method, but at that time I couldn't find  split JIS keyboar
 
 So I designed the PCB to make the keyboard layout easy to trial and error.
 
-You may make Row-Staggered, Columnar-Staggerd, Ortholinear, or other layouts keyboard.
+You may make Row-Staggered, Column-Staggerd, Ortholinear, or other layouts keyboard.
 
 SU is Japanese homophones: 州(sandbank) and 鬆(porous).
 
@@ -33,6 +33,8 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 [Firmware](https://github.com/e3w2q/qmk_firmware/tree/e3w2q/keyboards/e3w2q/su120)
 
+[Remap/VIA Firmware Hex File](/firmware/)
+
 [How to create a custom layout](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/readme.md) / [自由なレイアウトを作成するには](https://github.com/e3w2q/su120-keyboard-doc/blob/master/custom-layout/readme_jp.md)
 
 ## Example
@@ -41,19 +43,19 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/image/sasami17-3.jpg?raw=true" width="50%">
 
-[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
+[ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami17/readme_jp.md)
 
 ### 30 Key Ortholinear Keyboard
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/image/sasami30.jpg?raw=true" width="50%">
 
-[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/readme_jp.md)
+[ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/sasami30/readme_jp.md)
 
 ### 120 Key Split Ortholinear Keyboard 
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo120/image/momo120.jpg?raw=true" width="50%">
 
-[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo120/readme_jp.md)
+[ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo120/readme_jp.md)
 
 ### 40% Column-Staggered Keyboard
 
@@ -71,7 +73,7 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/badge_and_clip/image/badge_and_clip.jpg?raw=true" width="50%">
 
-[ビルドガイドとパーツリスト](https://github.com/e3w2q/su120-keyboard-doc/blob/master/badge_and_clip/readme_jp.md)
+[ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/badge_and_clip/readme_jp.md)
 
 ### 55% Split Ortholinear Keyboard by [ryuichio](https://twitter.com/ryuichio1)
 
