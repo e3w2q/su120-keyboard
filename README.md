@@ -57,7 +57,7 @@ Anyone interested in keyboard could try the keyboard layout more easily.
 
 [ビルドガイド](https://github.com/e3w2q/su120-keyboard-doc/blob/master/momo120/readme_jp.md)
 
-### 40% Column-Staggered Keyboard
+### 40% Row-Staggered Keyboard
 
 <img src="https://github.com/e3w2q/su120-keyboard-doc/blob/master/negima43/image/negima43.jpg?raw=true" width="50%">
 
